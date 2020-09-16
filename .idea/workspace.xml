@@ -47,9 +47,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hundeschule-herz-as" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -59,6 +59,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Merlin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="" />
@@ -77,7 +80,7 @@
       <workItem from="1600197905474" duration="785000" />
       <workItem from="1600210858491" duration="6443000" />
       <workItem from="1600219770213" duration="774000" />
-      <workItem from="1600220570237" duration="13000" />
+      <workItem from="1600220570237" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -160,14 +163,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600212954704" />
-    <state x="267" y="261" key="FileChooserDialogImpl" timestamp="1600220515790">
+    <state x="267" y="261" key="FileChooserDialogImpl" timestamp="1600220600804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="267" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600220515790" />
-    <state x="922" y="162" key="SettingsEditor" timestamp="1600220581887">
+    <state x="267" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600220600804" />
+    <state x="1005" y="421" width="585" height="365" key="Github.ShareDialog" timestamp="1600220671529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220581887" />
+    <state x="1005" y="421" width="585" height="365" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600220671529" />
+    <state x="1206" y="221" key="Github.UntrackedFilesDialog" timestamp="1600220682718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1206" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600220682718" />
+    <state x="626" y="169" key="SettingsEditor" timestamp="1600220639571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
     <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600220432437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
