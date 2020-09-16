@@ -16,9 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="url updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="cms updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <workItem from="1600219770213" duration="774000" />
       <workItem from="1600220570237" duration="1384000" />
       <workItem from="1600221975932" duration="3049000" />
-      <workItem from="1600290346831" duration="415000" />
+      <workItem from="1600290346831" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -185,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600224952371</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="cms updated">
+      <created>1600290856055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600290856055</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cms updated">
+      <created>1600291028601</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600291028601</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +244,8 @@
     <MESSAGE value="all added" />
     <MESSAGE value="netlify change" />
     <MESSAGE value="url updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="url updated" />
+    <MESSAGE value="cms updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="cms updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600196090156">
@@ -259,10 +272,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600224955153">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600291045651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600224955153" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600291045651" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1599947031907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
