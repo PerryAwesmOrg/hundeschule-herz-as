@@ -16,8 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="all added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="netlify change">
+      <change beforePath="$PROJECT_DIR$/public/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\public" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\hundeschule-herz-as\layouts\section\assistenzhunde" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\hundeschule-herz-as\static\images" />
     </key>
@@ -82,7 +84,7 @@
       <workItem from="1600210858491" duration="6443000" />
       <workItem from="1600219770213" duration="774000" />
       <workItem from="1600220570237" duration="1384000" />
-      <workItem from="1600221975932" duration="1237000" />
+      <workItem from="1600221975932" duration="1597000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600222935240</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="netlify change">
+      <created>1600223384497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600223384497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +194,8 @@
     <MESSAGE value="config fix" />
     <MESSAGE value="layer fixed" />
     <MESSAGE value="all added" />
-    <option name="LAST_COMMIT_MESSAGE" value="all added" />
+    <MESSAGE value="netlify change" />
+    <option name="LAST_COMMIT_MESSAGE" value="netlify change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600196090156">
@@ -212,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600222939984">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600223387895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600222939984" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600223387895" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1599947031907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
