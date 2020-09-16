@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="de">
+{{- partial "head.html" . -}}
+
+<body>
+	{{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- partial "phantom_header.html" . -}}
+	{{- block "main" . }}{{- end }}
+	{{- partial "footer.html" . -}}
+</body>
+
+</html>

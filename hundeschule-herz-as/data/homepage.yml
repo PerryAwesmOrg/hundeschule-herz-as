@@ -1,0 +1,65 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "Assistenzhunde- und Einzeltraining"
+  content : "Willkommen auf meiner Homepage, meinem Aushängeschild über meine Liebe zum Trainieren mit Mensch und Hund!"
+  button:
+    enable : false
+    label : "Discover Our Project"
+    link : "project"
+
+############################# Willkommen #################################
+training:
+  enable : true
+  title : "Training"
+  description : "Mein Training läuft rein positiv ab,
+                 </br>
+                 nur ein entspannter Hund kann schnell lernen!"
+  content : "Ich freue mich sehr, dass ihr mich auf dieser Seite besuchen kommt, um euch zu informieren,und vielleicht auch inspirieren zu lassen.
+             </br>
+             Zu sehen, wie ihr alle zu einem harmonischen Mensch-Hunde-Team zusammen wachsen könnt.
+             Meine Geschäftsidee ist einfach, ich bin Mobil und komme zu euch nach Hause.
+             </br>
+             Vor Ort kann ich euch anleiten, wie ihr euren Hund zum Assistenzhund ausbildet oder euren Familienhund  trainiert."
+  image : "images/assistenzhunde_1.jpg"
+
+
+######################### Ueber mich ###############################
+about:
+  enable : true
+
+  title : "ÜBER MICH"
+  content : "Mein Name ist Amelie Schulz, ich bin von der IHK Potsdam geprüfte Hundeerzieherin und Verhaltensberaterin des BHV.
+            </br>
+            </br>
+             Ich darf mich beruflich mit meinem Herzensthema Hunde beschäftigen. Mein Steckenpferd ist die Ausbildung von Assistenzhunden, wo ich meine jahrelangen Erfahrungen in Bezug auf chronische Erkrankungen und mein Hintergrundwissen als Kauffrau im Gesundheitswesen einbringen kann.
+             </br>
+             </br>
+             Mit Mensch und Hund ist das erarbeiten der gesamten Grundlagen, die unsere Familienhunde zu tollen Wegbegleitern machen, eine große Freude.
+             Das Auftrainieren von Hilfsleistungen eines Assistenzhundes macht die Arbeit anspruchsvoll und ist sehr spannend.
+             Ich liebe es den Menschen die Sprache der Hunde näher zu bringen und zu beobachten wie Mensch und Hund zu einem Team zusammenwachsen.
+             </br>
+             </br>
+             Ich arbeite nur positiv, bei mir gibt es im Trainingsplan keine Strafen!
+             </br>
+             Ständige Weiterbildung ist für mich eine Selbstverständlichkeit."
+  image : "images/about.jpg"
+  button:
+    enable : false
+    label : "View Works"
+    link : "project"
+
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/footer.jpg"
+  title : "Entdecke mehr über mein Training"
+  content : ""
+  button:
+    enable : true
+    label : "Los geht's"
+    link : "angebote"
