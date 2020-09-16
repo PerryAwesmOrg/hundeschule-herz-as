@@ -45,7 +45,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -80,7 +79,7 @@
       <workItem from="1600197905474" duration="785000" />
       <workItem from="1600210858491" duration="6443000" />
       <workItem from="1600219770213" duration="774000" />
-      <workItem from="1600220570237" duration="559000" />
+      <workItem from="1600220570237" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -110,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600220430202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1600221401575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600221401575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,14 +185,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600220432437">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600221418513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600220432437" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600221418513" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1599947031907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599947031907" />
+    <state x="1214" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600221379104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1214" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600221379104" />
     <state x="281" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598726529824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
