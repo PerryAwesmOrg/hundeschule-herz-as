@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://examplesite.org/assistenzhunde/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/impressum/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/assistenzhunde/ausbildung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/agb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/aktuelles/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/datenschutz/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/elo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/futter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/preise/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/verhaltensberatung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/tags/</loc>
+  </url>
+  
+</urlset>

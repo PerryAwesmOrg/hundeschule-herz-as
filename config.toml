@@ -1,0 +1,187 @@
+################################# Default configuration ###################
+baseURL = "http://examplesite.org"
+title = "Hundeschule Herz AS"
+DefaultContentLanguage = "de"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "30"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+
+################################# Outputs #################################
+# hugo outputs
+[outputs]
+home = [ "HTML", "RSS"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+#################################### Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+
+
+############################### widgets #################################
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.jpg"
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # Your ID# search
+
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Navigation get start button
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+
+# google map
+[params.gmap]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+
+############################# social site ########################
+[[params.social]]
+icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+[[params.social]]
+icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "#"
+
+
+######################### navigation #############################
+
+[menu]
+    [[menu.main]]
+    name = "Assistenzhunde"
+    hasChildren = true
+    weight = 1
+
+        [[menu.main]]
+        parent = "Assistenzhunde"
+        name = "Allgemein"
+        URL = "assistenzhunde"
+
+        [[menu.main]]
+        parent = "Assistenzhunde"
+        name = "Ausbildung"
+        URL = "assistenzhunde/ausbildung"
+
+        [[menu.main]]
+        parent = "Assistenzhunde"
+        name = "Fragenkatalog"
+        URL = "assistenzhunde/fragenkatalog"
+
+    [[menu.main]]
+    name = "Verhaltensberatung"
+    URL = "verhaltensberatung"
+    hasChildren = true
+    weight = 2
+
+    [[menu.main]]
+    name = "Preise"
+    URL = "preise"
+    weight = 3
+
+    [[menu.main]]
+    name = "Futter"
+    URL = "futter"
+    weight = 4
+
+    [[menu.main]]
+    name = "Der Elo"
+    URL = "elo"
+    weight = 5
+
+    [[menu.main]]
+    name = "Aktuelles"
+    URL = "aktuelles"
+    weight = 6
+
+    [[menu.main]]
+    name = "Kontakt"
+    URL = "kontakt"
+    weight = 7
+
+
+    # footer menu
+    [[menu.footer]]
+    name = "AGB"
+    URL = "agb"
+    weight = 1
+
+    [[menu.footer]]
+    name = "Datenschutz"
+    URL = "datenschutz"
+    weight = 2
+
+    [[menu.footer]]
+    name = "Kontakt"
+    URL = "kontakt"
+    weight = 3
+
+    [[menu.footer]]
+    name = "Impressum"
+    URL = "impressum"
+    weight = 4
+
