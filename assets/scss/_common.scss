@@ -1,3 +1,17 @@
+h1{
+  font-family: raleway dots,fantasy,google;
+}
+h2{
+  font-family: raleway dots,fantasy,google;
+}
+h3{
+  font-size: 24px;
+  font-family: raleway dots,fantasy,google;
+}
+h4{
+  font-family: raleway dots,fantasy,google;
+}
+
 ul {
   margin: 0;
   padding-left: 0;
@@ -7,13 +21,16 @@ ul {
 iframe {
   border: 0;
 }
-
-a,
+a{
+  font-size: 15px;
+  font-family: roboto,sans-serif;
+  color: #0000EE;
+}
 a:focus,
 a:hover {
   text-decoration: none;
   outline: 0;
-  color: $primary-color;
+  color: #9b0000;
 }
 
 blockquote {

@@ -119,7 +119,7 @@ link = "#"
 
         [[menu.main]]
         parent = "Assistenzhunde"
-        name = "Allgemein"
+        name = "Allgemein "
         URL = "assistenzhunde"
 
         [[menu.main]]
@@ -134,9 +134,28 @@ link = "#"
 
     [[menu.main]]
     name = "Verhaltensberatung"
-    URL = "verhaltensberatung"
     hasChildren = true
     weight = 2
+
+        [[menu.main]]
+        parent = "Verhaltensberatung"
+        name = "Allgemein"
+        URL = "verhaltensberatung"
+
+        [[menu.main]]
+        parent = "Verhaltensberatung"
+        name = "Einzeltraining"
+        URL = "verhaltensberatung/einzeltraining"
+
+        [[menu.main]]
+        parent = "Verhaltensberatung"
+        name = "Angsthunde"
+        URL = "verhaltensberatung/angsthunde"
+
+        [[menu.main]]
+        parent = "Verhaltensberatung"
+        name = "Kaufberatung"
+        URL = "verhaltensberatung/kaufberatung"
 
     [[menu.main]]
     name = "Preise"

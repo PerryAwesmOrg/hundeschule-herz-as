@@ -30,4 +30,3 @@ Kann ich mir einen Zweithund leisten und mit diesem einen weiteren Versuch start
 ***
 ### Was passiert mit meinem Assistenzhund, wenn dieser auf Grund von Alter oder Krankheit seine Aufgaben nicht mehr erfüllen kann/soll?  
 Kann er seinen Ruhestand bei mir verbringen oder muss ich ihm dann ein anderes Zuhause suchen, weil ich einen neuen Assistenzhund brauche und nur einen Hund halten kann?
-***

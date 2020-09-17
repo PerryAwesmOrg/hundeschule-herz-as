@@ -43,18 +43,32 @@
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/impressum/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/angsthunde/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/</loc>
   </url>
   
   <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/ausbildung/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/impressum/</loc>
-    <priority>0</priority>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/einzeltraining/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/fragenkatalog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/kaufberatung/</loc>
   </url>
   
   <url>

@@ -59,4 +59,3 @@ in dem sie für den Meschen nicht wahrnehmbare akustische Signale mittels physis
 **Servicehunde** unterstützen ihren Menschen im Bereich der Mobilität (z.B. Rollstuhlbegleithunde, etc.).  
 Kombinationshunde helfen meistens mehrfachbehinderten Menschen und kombinieren dazu Eigenschaften aus mehreren Assistenzbereichen.
 Sie werden nach ihrem Hauptaufgabengebiet benannt. 
-***
