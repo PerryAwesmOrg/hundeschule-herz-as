@@ -3,61 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/assistenzhunde/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/categories/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/blog-post/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/technology/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://examplesite.org/impressum/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/ausbildung/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://examplesite.org/assistenzhunde/ausbildung/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/impressum/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://examplesite.org/categories/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/agb/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/datenschutz/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/agb/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/elo/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/aktuelles/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/futter/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/datenschutz/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/kontakt/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/elo/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/preise/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/futter/</loc>
-  </url>
-  
-  <url>
-    <loc>http://examplesite.org/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>http://examplesite.org/preise/</loc>
-  </url>
-  
-  <url>
-    <loc>http://examplesite.org/verhaltensberatung/</loc>
-  </url>
-  
-  <url>
-    <loc>http://examplesite.org/tags/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/</loc>
   </url>
   
 </urlset>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Pricing on Hundeschule Herz AS</title>
-    <link>http://examplesite.org/elo/</link>
+    <link>https://quizzical-kalam-b647ee.netlify.app/elo/</link>
     <description>Recent content in Our Pricing on Hundeschule Herz AS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://examplesite.org/elo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quizzical-kalam-b647ee.netlify.app/elo/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

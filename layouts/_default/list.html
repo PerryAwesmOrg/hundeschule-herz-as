@@ -1,11 +1,15 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
-
 <div class="page-wrapper">
   <div class="container">
     <div class="row">
       <div class="col-md-8">
+		  <div class="post post-single">
+			  <h2 class="post-title">{{ .Title }}</h2>
+			  <div class="post-content post-excerpt">
+				  {{ .Content }}
+			  </div>
+		  </div>
         {{ $paginator := .Paginate .Data.Pages }}
         {{ range $paginator.Pages }}
         <div class="post">

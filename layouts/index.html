@@ -1,7 +1,7 @@
 {{ define "main" }}
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {{ $data := index site.Data}}
-
+<section class="page-wrapper">
 <!-- banner -->
 {{ if $data.homepage.banner.enable }}
 
@@ -90,7 +90,7 @@
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
-
+</section>
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
