@@ -35,3 +35,20 @@
     }
   }
 }
+
+@media (max-width: 568px){
+  .slider{
+
+    .block {
+      h1 {
+        font-weight: 100;
+        font-size: 8vw;
+        line-height: 60px;
+        letter-spacing: 4px;
+        padding-bottom: 15px;
+        text-transform: uppercase;
+        word-wrap: break-word;
+      }
+    }
+  }
+}

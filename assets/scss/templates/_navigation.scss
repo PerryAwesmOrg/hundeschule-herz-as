@@ -1,3 +1,11 @@
+$gl-ms         : "screen and (max-width: 23.5em)"; // up to 360px
+$gl-xs         : "screen and (max-width: 35.5em)"; // up to 568px
+$gl-sm         : "screen and (max-width: 48em)";   // max 768px
+$gl-md         : "screen and (max-width: 64em)";   // max 1024px
+$gl-lg         : "screen and (max-width: 80em)";   // max 1280px
+
+
+
 .navigation {
   background: #f7f7f7;
   padding: 22px 0;
@@ -20,7 +28,6 @@
     padding-top: 0;
     top: -11px;
     position: relative;
-    max-width: 75vw;
     float: left;
     z-index: 1;
   }
@@ -92,4 +99,41 @@
 
 .nav .open>a {
   background: transparent;
+}
+
+@media (max-width: 568px){
+  .phantom_navigation{
+    padding: 0 0 0 0;
+
+    .navbar{
+      padding: 20px 0 0 0;
+      min-height: 0;
+    }
+    .navbar-brand {
+      padding: 0 0 0 0;
+      left: -6px;
+      max-width: 72vw;
+      float: left;
+    }
+    .navbar-toggle{
+      padding: 0 0 0 0;
+    }
+  }
+  .navigation {
+    padding: 0 0 0 0;
+
+    .navbar{
+      padding: 20px 0 0 0;
+      min-height: 0;
+    }
+    .navbar-brand {
+      padding: 0 0 0 0;
+      left: -6px;
+      max-width: 72vw;
+      float: left;
+    }
+    .navbar-toggle{
+      padding: 0 0 0 0;
+    }
+  }
 }
