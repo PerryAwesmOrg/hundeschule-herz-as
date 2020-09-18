@@ -1,6 +1,4 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
+title: "Hier kommt agb hin"
 draft: false
-bg_image: "images/featue-bg.jpg"
 ---

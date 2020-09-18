@@ -204,3 +204,8 @@ link = "#"
     URL = "impressum"
     weight = 4
 
+    [[menu.footer]]
+    name = "Links"
+    URL = "links"
+    weight = 4
+
