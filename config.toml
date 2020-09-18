@@ -185,6 +185,11 @@ links = "www.google.com"
     URL = "kontakt"
     weight = 7
 
+    [[menu.main]]
+    name = "Team"
+    URL = "team"
+    weight = 8
+
 
     # footer menu
     [[menu.footer]]

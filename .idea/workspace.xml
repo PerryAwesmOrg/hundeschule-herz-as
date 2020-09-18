@@ -16,14 +16,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="semi alpha final">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="alpha final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_navigation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/phantom_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/phantom_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/cta.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/cta.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
       <workItem from="1600290346831" duration="14934000" />
       <workItem from="1600373284474" duration="4877000" />
       <workItem from="1600379083098" duration="46000" />
-      <workItem from="1600450930449" duration="5789000" />
+      <workItem from="1600450930449" duration="6804000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -250,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600455055278</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="alpha final">
+      <created>1600457248016</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600457248016</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +305,8 @@
     <MESSAGE value="neue seiten und seitenstyle" />
     <MESSAGE value="responsive improvement" />
     <MESSAGE value="semi alpha final" />
-    <option name="LAST_COMMIT_MESSAGE" value="semi alpha final" />
+    <MESSAGE value="alpha final" />
+    <option name="LAST_COMMIT_MESSAGE" value="alpha final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600377438305">
@@ -328,10 +333,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600455057074">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600457352657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600455057074" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600457352657" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1599947031907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
