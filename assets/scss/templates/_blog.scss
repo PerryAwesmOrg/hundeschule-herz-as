@@ -29,7 +29,7 @@
   .post-title {
     padding-top: 10px;
     text-transform: uppercase;
-    font-family: "Raleway Dots",fantasy,"google";
+    font-family: serif;
     font-size: 30px;
     font-style: normal;
     text-align: left;
@@ -170,6 +170,7 @@ table 			      {
   width:100%;
   margin:0 auto;
   position:relative;
+  font-size:16px;
 
   *               { position:relative }
 
@@ -177,8 +178,8 @@ table 			      {
 
   thead tr        {
     height:60px;
-    background:#FFED86;
-    font-size:16px;
+    background:lightgray;
+
   }
 
   tbody tr        { height:48px; border-bottom:1px solid #E3F1D5 ;

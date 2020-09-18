@@ -52,7 +52,6 @@ $gl-lg         : "screen and (max-width: 80em)";   // max 1280px
           color: #5C5C5C;
           padding: 10px 15px;
 
-          font-family: "Raleway",sans-serif,"google";
           font : {
             weight: 500;
             size: 17px;
@@ -113,6 +112,9 @@ $gl-lg         : "screen and (max-width: 80em)";   // max 1280px
       left: -6px;
       max-width: 72vw;
       float: left;
+      img{
+        max-height: 120%;
+      }
     }
     .navbar-toggle{
       padding: 0 0 0 0;
@@ -130,6 +132,9 @@ $gl-lg         : "screen and (max-width: 80em)";   // max 1280px
       left: -6px;
       max-width: 72vw;
       float: left;
+      img{
+        max-height: 120%;
+      }
     }
     .navbar-toggle{
       padding: 0 0 0 0;
