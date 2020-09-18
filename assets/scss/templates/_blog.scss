@@ -110,6 +110,14 @@
   }
 }
 
+@media (max-width: 568px){
+  .post {
+    .post-title {
+      font-size: 27px;
+    }
+  }
+}
+
 .post-pagination {
   margin-top: 70px;
 
