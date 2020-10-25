@@ -161,7 +161,6 @@ $gl-lg         : "screen and (max-width: 80em)";   // max 1280px
 // table style
 
 table 			      {
-  border-spacing: 1;
   border-collapse: collapse;
   background:white;
   border-radius:6px;
@@ -225,10 +224,7 @@ table 			      {
 // body style
 
 body{
-
-  background: #9b0000;
   font:400 14px 'Calibri','Arial';
-  padding:0 3vw 0 3vw;
 
 }
 
