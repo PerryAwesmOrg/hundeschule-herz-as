@@ -6,13 +6,11 @@ draft: false
 
 Bei Fragen, Sorgen und Nöten, einfach eine Nachricht schicken!  
   
-Mail: **hundeschule.herz.as@gmail.com**  
+Mail: **info@hundeschule-herz-as.com**  
 Telefon: **05108-876 8 567**  
   
 Hundeschule Herz-AS  
-Amelie Schulz  
-Im Teichfeld 9  
-30989 Gehrden  
+Gehrden, Hannover
 
 #### Meine Heimat 
 Ich wohne in einer Wohnung in Gehrden, daher arbeite ich mit euch lieber draußen oder direkt bei euch Zuhause.
