@@ -16,12 +16,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="alpha 1.0.3.1&#10;minor fixes">
-      <change afterPath="$PROJECT_DIR$/static/images/slider-bg.jpeg" afterDir="false" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="alpha 1.0.3.2&#10;minor fixes">
+      <change afterPath="$PROJECT_DIR$/content/Familienhunde/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/kontakt/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/slider-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/stock_watermarked_elo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/section/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/section/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/AdobeStock_281285231_Preview.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/AdobeStock_315334622_Preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/footer.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/footer.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/footer.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +57,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/links" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/Familienhunde" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Familienhunde" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\links" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\fragenkatalog" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\ausbildung" />
@@ -104,7 +109,9 @@
       <workItem from="1603634568184" duration="371000" />
       <workItem from="1607885808394" duration="84000" />
       <workItem from="1612017124957" duration="1387000" />
-      <workItem from="1615125342059" duration="920000" />
+      <workItem from="1615125342059" duration="1792000" />
+      <workItem from="1615127147330" duration="1584000" />
+      <workItem from="1616682262745" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -288,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603634897893</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="alpha 1.0.3.2&#10;minor fixes">
+      <created>1615126358759</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1615126358759</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,52 +358,13 @@
     <MESSAGE value="alpha 1.0.2&#10;responsiveness improved" />
     <MESSAGE value="alpha 1.0.3&#10;minor fixes" />
     <MESSAGE value="alpha 1.0.3.1&#10;minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="alpha 1.0.3.1&#10;minor fixes" />
+    <MESSAGE value="alpha 1.0.3.2&#10;minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="alpha 1.0.3.2&#10;minor fixes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600377438305">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615126360910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600377438305" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600212954704">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600212954704" />
-    <state x="267" y="261" key="FileChooserDialogImpl" timestamp="1600220600804">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="267" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600220600804" />
-    <state x="1005" y="421" width="585" height="365" key="Github.ShareDialog" timestamp="1600220671529">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1005" y="421" width="585" height="365" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600220671529" />
-    <state x="1206" y="221" key="Github.UntrackedFilesDialog" timestamp="1600220682718">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1206" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600220682718" />
-    <state x="626" y="169" key="SettingsEditor" timestamp="1600220639571">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="626" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600220639571" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603634901182">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603634901182" />
-    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1599947031907">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599947031907" />
-    <state x="1214" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600222478423">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1214" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600222478423" />
-    <state x="281" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598726529824">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="281" y="430" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598726529824" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1600119245753">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600119245753" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615126360910" />
   </component>
 </project>

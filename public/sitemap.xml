@@ -3,43 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/blog-post/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/familienhunde/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -60,6 +25,14 @@
   </url>
   
   <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/elo/</loc>
+  </url>
+  
+  <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/einzeltraining/</loc>
   </url>
   
@@ -68,11 +41,15 @@
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/kaufberatung/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/agb/</loc>
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/agb/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/team/</loc>
   </url>
   
   <url>
@@ -80,11 +57,15 @@
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/elo/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/futter/</loc>
   </url>
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/futter/</loc>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/kaufberatung/</loc>
   </url>
   
   <url>
@@ -92,7 +73,15 @@
   </url>
   
   <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/links/</loc>
+  </url>
+  
+  <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/preise/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/tags/</loc>
   </url>
   
   <url>

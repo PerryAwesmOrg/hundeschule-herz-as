@@ -136,9 +136,29 @@ links = "www.google.com"
         URL = "assistenzhunde/fragenkatalog"
 
     [[menu.main]]
-    name = "Verhaltensberatung"
+    name = "Familienhunde"
     hasChildren = true
     weight = 2
+
+        [[menu.main]]
+        parent = "Familienhunde"
+        name = "Allgemein "
+        URL = "familienhunde"
+
+        [[menu.main]]
+        parent = "Familienhunde"
+        name = "Hundetraining "
+        URL = "familienhunde/hundetraining"
+
+        [[menu.main]]
+        parent = "Familienhunde"
+        name = "Kaufberatung "
+        URL = "familienhunde/kaufberatung"
+
+    [[menu.main]]
+    name = "Verhaltensberatung"
+    hasChildren = true
+    weight = 3
 
         [[menu.main]]
         parent = "Verhaltensberatung"
@@ -163,33 +183,42 @@ links = "www.google.com"
     [[menu.main]]
     name = "Preise"
     URL = "preise"
-    weight = 3
-
-    [[menu.main]]
-    name = "Futter"
-    URL = "futter"
     weight = 4
 
     [[menu.main]]
-    name = "Der Elo"
-    URL = "elo"
+    name = "Futter"
+    hasChildren = true
     weight = 5
+
+        [[menu.main]]
+        parent = "Futter"
+        name = "Allgemein"
+        URL = "futter"
+
+        [[menu.main]]
+        parent = "Futter"
+        name = "Reico"
+        URL = "futter/reico"
+
+    [[menu.main]]
+    name = "Elozucht"
+    URL = "elo"
+    weight = 6
 
     [[menu.main]]
     name = "Aktuelles"
     URL = "aktuelles"
-    weight = 6
+    weight = 7
+
+    [[menu.main]]
+    name = "Galerie"
+    URL = "Galerie"
+    weight = 8
 
     [[menu.main]]
     name = "Kontakt"
     URL = "kontakt"
-    weight = 7
-
-    [[menu.main]]
-    name = "Team"
-    URL = "team"
-    weight = 8
-
+    weight = 9
 
     # footer menu
     [[menu.footer]]

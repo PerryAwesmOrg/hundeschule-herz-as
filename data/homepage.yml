@@ -1,9 +1,9 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/slider-bg.jpeg"
   bg_overlay : true
-  title : "Assistenzhunde- und Einzeltraining"
+  title : "Assistenzhunde- und mobiles Einzeltraining"
   content : "Willkommen auf meiner Homepage, meinem Aushängeschild über meine Liebe zum Trainieren mit Mensch und Hund!"
   button:
     enable : false
@@ -56,7 +56,7 @@ about:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/footer.jpg"
+  bg_image : "images/footer.jpeg"
   title : "Entdecke mehr über mein Training"
   content : ""
   button:
