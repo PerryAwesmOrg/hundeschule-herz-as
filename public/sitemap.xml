@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quizzical-kalam-b647ee.netlify.app/familienhunde/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/impressum/</loc>
     <priority>0</priority>
   </url>
@@ -41,11 +36,19 @@
   </url>
   
   <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/galerie/</loc>
+  </url>
+  
+  <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/agb/</loc>
   </url>
   
   <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/aktuelles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/familienhunde/</loc>
   </url>
   
   <url>
@@ -58,6 +61,18 @@
   
   <url>
     <loc>https://quizzical-kalam-b647ee.netlify.app/futter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/familienhunde/hundetraining/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/familienhunde/kaufberatung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://quizzical-kalam-b647ee.netlify.app/futter/reico/</loc>
   </url>
   
   <url>

@@ -1,7 +1,51 @@
 /*=================================================================
   Pricing section
 ==================================================================*/
+table 			      {
+  border-collapse: collapse;
+  background:white;
+  border-radius:6px;
+  overflow:hidden;
+  max-width:800px;
+  width:100%;
+  margin:0 auto;
+  position:relative;
+  font-size:16px;
 
+  *               { position:relative }
+
+  td,th           { padding-left:8px;
+  max-width: 45vw}
+
+  thead tr        {
+    height:60px;
+    background:lightgray;
+
+  }
+
+  tbody tr        { height:48px; border-bottom:1px solid #E3F1D5 ;
+    &:last-child  { border:0; }
+  }
+
+  td,th 					{ text-align:left;
+    &.l 					{ text-align:right }
+    &.c 					{ text-align:center }
+    &.r 					{ text-align:center }
+  }
+}
+
+table {
+  -webkit-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
+  box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
+}
+table tbody td{
+  background-color: #dedede;
+}
+table thead th{
+  background-color: #418bba;
+
+}
 .pricing-table {
   .pricing-item {
     padding: 40px 20px;

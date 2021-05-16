@@ -117,12 +117,15 @@ links = "www.google.com"
 [menu]
     [[menu.main]]
     name = "Assistenzhunde"
+    URL = "./assistenzhunde/ausbildung"
+    identifier = "Assistenzhunde"
     hasChildren = true
     weight = 1
 
         [[menu.main]]
         parent = "Assistenzhunde"
-        name = "Allgemein "
+        name = "Allgemein"
+        identifier = "Assistenzhunde/allgemein"
         URL = "assistenzhunde"
 
         [[menu.main]]
@@ -132,28 +135,29 @@ links = "www.google.com"
 
         [[menu.main]]
         parent = "Assistenzhunde"
-        name = "Fragenkatalog"
+        name = "Fragenkatalog "
         URL = "assistenzhunde/fragenkatalog"
 
-    [[menu.main]]
-    name = "Familienhunde"
-    hasChildren = true
-    weight = 2
-
-        [[menu.main]]
-        parent = "Familienhunde"
-        name = "Allgemein "
-        URL = "familienhunde"
-
-        [[menu.main]]
-        parent = "Familienhunde"
-        name = "Hundetraining "
-        URL = "familienhunde/hundetraining"
-
-        [[menu.main]]
-        parent = "Familienhunde"
-        name = "Kaufberatung "
-        URL = "familienhunde/kaufberatung"
+#    [[menu.main]]
+#    name = "Familienhunde"
+#    hasChildren = true
+#    weight = 2
+#
+#        [[menu.main]]
+#        parent = "Familienhunde"
+#        name = "Allgemein"
+#        identifier = "Familienhunde/allgemein"
+#        URL = "familienhunde"
+#
+#        [[menu.main]]
+#        parent = "Familienhunde"
+#        name = "Hundetraining "
+#        URL = "familienhunde/hundetraining"
+#
+#        [[menu.main]]
+#        parent = "Familienhunde"
+#        name = "Kaufberatung "
+#        URL = "familienhunde/kaufberatung"
 
     [[menu.main]]
     name = "Verhaltensberatung"
@@ -163,6 +167,7 @@ links = "www.google.com"
         [[menu.main]]
         parent = "Verhaltensberatung"
         name = "Allgemein"
+        identifier = "Verhaltensberatung/allgemein"
         URL = "verhaltensberatung"
 
         [[menu.main]]
@@ -187,33 +192,23 @@ links = "www.google.com"
 
     [[menu.main]]
     name = "Futter"
-    hasChildren = true
+    URL = "futter"
     weight = 5
-
-        [[menu.main]]
-        parent = "Futter"
-        name = "Allgemein"
-        URL = "futter"
-
-        [[menu.main]]
-        parent = "Futter"
-        name = "Reico"
-        URL = "futter/reico"
 
     [[menu.main]]
     name = "Elozucht"
     URL = "elo"
     weight = 6
 
-    [[menu.main]]
-    name = "Aktuelles"
-    URL = "aktuelles"
-    weight = 7
+#    [[menu.main]]
+#    name = "Aktuelles"
+#    URL = "aktuelles"
+#    weight = 7
 
-    [[menu.main]]
-    name = "Galerie"
-    URL = "Galerie"
-    weight = 8
+#    [[menu.main]]
+#    name = "Galerie"
+#    URL = "galerie"
+#    weight = 8
 
     [[menu.main]]
     name = "Kontakt"
