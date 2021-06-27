@@ -38,12 +38,25 @@ table {
   -webkit-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
   -moz-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
   box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.25);
+
 }
 table tbody td{
   background-color: #dedede;
+  text-align: center;
 }
+table tbody td:first-child{
+  background-color: #dedede;
+  text-align: left;
+}
+
 table thead th{
   background-color: #418bba;
+  padding-right: 10px;
+  text-align: center;
+
+}
+table:last-of-type thead th{
+  background-color: #4397ab;
 
 }
 .pricing-table {

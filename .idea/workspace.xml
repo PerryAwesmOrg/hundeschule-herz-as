@@ -19,12 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.1">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.2&#10;minor topbar fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/phantom_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/phantom_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_pricing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preise/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +120,9 @@
       <workItem from="1621179086366" duration="1803000" />
       <workItem from="1621180901213" duration="3695000" />
       <workItem from="1621184984409" duration="2100000" />
-      <workItem from="1621187167686" duration="1176000" />
+      <workItem from="1621187167686" duration="1410000" />
+      <workItem from="1623166242720" duration="72000" />
+      <workItem from="1624807845006" duration="1507000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -334,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621186653753</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Beta 1.0.2&#10;minor topbar fixes">
+      <created>1621188388819</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1621188388819</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +401,8 @@
     <MESSAGE value="alpha 1.0.3.3&#10;minor fixes" />
     <MESSAGE value="Beta 1.0" />
     <MESSAGE value="Beta 1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.1" />
+    <MESSAGE value="Beta 1.0.2&#10;minor topbar fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.2&#10;minor topbar fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618760993050">
@@ -409,10 +417,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621175466204" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621186656299">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621188394165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621186656299" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621188394165" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616683849060" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1621188057861">
       <screen x="0" y="0" width="1920" height="1040" />
