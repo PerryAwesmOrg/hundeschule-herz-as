@@ -200,10 +200,10 @@ links = "www.google.com"
     URL = "elo"
     weight = 6
 
-#    [[menu.main]]
-#    name = "Aktuelles"
-#    URL = "aktuelles"
-#    weight = 7
+    [[menu.main]]
+    name = "Aktuelles"
+    URL = "aktuelles"
+    weight = 7
 
 #    [[menu.main]]
 #    name = "Galerie"
@@ -213,7 +213,7 @@ links = "www.google.com"
     [[menu.main]]
     name = "Kontakt"
     URL = "kontakt"
-    weight = 9
+    weight = 8
 
     # footer menu
     [[menu.footer]]

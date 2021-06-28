@@ -11,7 +11,7 @@ mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen.
 Oft ist das Tier Freund und Hilfsmittel zugleich. Es erfordert allerdings eine gute Ausbildung damit die Hunde ihrem 
 Frauchen oder Herrchen tatsächlich eine unverzichtbare Hilfe sein können. Wie sie dazu erzogen und ausgebildet werden,
 wollte die BSK-Mitarbeitering Anna Koch ganz genau wissen und befragte kurzerhand die Trainerin Amelie Schulz...
-
+ 
 <br>
 
 Das ganze Interview findest du [hier!](/files/Interview_BSK_Zusammenfassung.pdf)

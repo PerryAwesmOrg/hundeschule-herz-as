@@ -10,9 +10,8 @@
 				  {{ .Content }}
 			  </div>
 		  </div>
-		  <hr>
         {{ $paginator := .Paginate .Data.Pages }}
-        {{ range $paginator.Pages }}
+        {{ range $paginator.Pages.ByDate.Reverse }}
         <div class="post">
           <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <div class="post-content">
