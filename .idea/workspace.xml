@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.4&#10;Aktuelles added">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.5&#10;Slider fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/landing-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/landing-page.scss" afterDir="false" />
     </list>
@@ -128,7 +128,7 @@
       <workItem from="1624896522457" duration="1819000" />
       <workItem from="1624898363527" duration="1489000" />
       <workItem from="1627595451507" duration="23000" />
-      <workItem from="1627822376602" duration="476000" />
+      <workItem from="1627822376602" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -361,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624899251449</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Beta 1.0.5&#10;Slider fixed">
+      <created>1627822871478</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1627822871478</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +432,8 @@
     <MESSAGE value="Beta 1.0.2&#10;minor topbar fixes" />
     <MESSAGE value="Beta 1.0.3&#10;prices updated" />
     <MESSAGE value="Beta 1.0.4&#10;Aktuelles added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.4&#10;Aktuelles added" />
+    <MESSAGE value="Beta 1.0.5&#10;Slider fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.5&#10;Slider fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624897423205">
@@ -440,10 +448,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621175466204" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624899253924">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1627822874428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624899253924" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1627822874428" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1621188057861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
