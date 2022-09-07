@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hier kommt Aktuelles hin on Hundeschule Herz AS</title>
+    <title>Hundeschule Herz AS</title>
     <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/</link>
-    <description>Recent content in Hier kommt Aktuelles hin on Hundeschule Herz AS</description>
+    <description>Recent content on Hundeschule Herz AS</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://quizzical-kalam-b647ee.netlify.app/aktuelles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Corona</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/corona/</guid>
+      <description>Da nach der ersten Corona-Welle die Bedingungen wieder gelockert werden, kann wieder Einzeltraining stattfinden!
+Folgende Hygiene Anforderungen werden wir beachten:
+  1,5 - 2 Meter Abstand
+  Mund und Nasenschutz</description>
+    </item>
+    
+    <item>
+      <title>Folge mir auf Instagram</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/instagram/</guid>
+      <description>Ab sofort findet ihr mich auch sofort auf Instagram</description>
+    </item>
+    
+    <item>
+      <title>Frohes Neues Jahr 2020 !!!</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/frohes_neues_2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/frohes_neues_2020/</guid>
+      <description>Meine zwei Hunde und ich wünschen Euch allen ein Frohes Neues Jahr 2020.</description>
+    </item>
+    
+    <item>
+      <title>Mein Interview mit der BSK</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/interview/</guid>
+      <description>Hilfe auf vier Pfoten Assistenzhunde sind für viele Menschen eine sehr gute Möglichkeit, mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen. Oft ist das Tier Freund und Hilfsmittel zugleich.</description>
+    </item>
     
   </channel>
 </rss>

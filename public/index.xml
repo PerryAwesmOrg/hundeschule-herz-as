@@ -5,9 +5,19 @@
     <link>https://quizzical-kalam-b647ee.netlify.app/</link>
     <description>Recent content on Hundeschule Herz AS</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Sep 2020 01:01:17 +0200</lastBuildDate>
     
 	<atom:link href="https://quizzical-kalam-b647ee.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/about/</link>
+      <pubDate>Sat, 12 Sep 2020 23:49:06 +0200</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angsthunde</title>
@@ -30,6 +40,18 @@ Einmal selber ausprobieren, so bekommt man ein Gefühl dafür, worauf man in der
     </item>
     
     <item>
+      <title>Corona</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/corona/</guid>
+      <description>Da nach der ersten Corona-Welle die Bedingungen wieder gelockert werden, kann wieder Einzeltraining stattfinden!
+Folgende Hygiene Anforderungen werden wir beachten:
+  1,5 - 2 Meter Abstand
+  Mund und Nasenschutz</description>
+    </item>
+    
+    <item>
       <title>Einzeltraining</title>
       <link>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/einzeltraining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,12 +61,30 @@ Einmal selber ausprobieren, so bekommt man ein Gefühl dafür, worauf man in der
     </item>
     
     <item>
+      <title>Folge mir auf Instagram</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/instagram/</guid>
+      <description>Ab sofort findet ihr mich auch sofort auf Instagram</description>
+    </item>
+    
+    <item>
       <title>Fragenkatalog</title>
       <link>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/fragenkatalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/fragenkatalog/</guid>
       <description>Wer mit dem Gedanken spielt, sich einen Assistenzhund zu besorgen, sollte sich im Vorfeld einige Gedanken machen. Diesen Fragenkatalog, sollte jeder angehende (Assistenz-) Hundehalter für sich in die Überlegungen mit einbeziehen!</description>
+    </item>
+    
+    <item>
+      <title>Frohes Neues Jahr 2020 !!!</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/frohes_neues_2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/frohes_neues_2020/</guid>
+      <description>Meine zwei Hunde und ich wünschen Euch allen ein Frohes Neues Jahr 2020.</description>
     </item>
     
     <item>
@@ -67,11 +107,20 @@ Einmal selber ausprobieren, so bekommt man ein Gefühl dafür, worauf man in der
     
     <item>
       <title>Kaufberatung</title>
-      <link>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/kaufberatung/</link>
+      <link>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/kaufberatung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://quizzical-kalam-b647ee.netlify.app/verhaltensberatung/kaufberatung/</guid>
+      <guid>https://quizzical-kalam-b647ee.netlify.app/assistenzhunde/kaufberatung/</guid>
       <description>Der wundervollste Bereich der Hundetrainer ist es, sich mit den noch jungen und süßen Welpen zu beschäftigen,und diese auf Eignung zum Assistenz- oder Familienhund zu überprüfen.Wichtig hierbei ist immer die Erfahrung des Züchters oder Tierpflegers,da sie sehr viel Zeit mit den verschiedenen Charakteren der Tiere zu tun hatten.</description>
+    </item>
+    
+    <item>
+      <title>Mein Interview mit der BSK</title>
+      <link>https://quizzical-kalam-b647ee.netlify.app/aktuelles/interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quizzical-kalam-b647ee.netlify.app/aktuelles/interview/</guid>
+      <description>Hilfe auf vier Pfoten Assistenzhunde sind für viele Menschen eine sehr gute Möglichkeit, mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen. Oft ist das Tier Freund und Hilfsmittel zugleich.</description>
     </item>
     
   </channel>
