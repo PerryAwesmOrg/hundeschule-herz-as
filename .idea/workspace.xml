@@ -19,9 +19,45 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.5&#10;Slider fixed">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.0.6&#10;Slider fixed">
+      <change afterPath="$PROJECT_DIR$/content/aktuelles/instagram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/qualifikationen/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/EZFG_Logo_inv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/atn_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bildungsgemeinschafthund_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bsk_ev_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dmsg_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dogswithjobs_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/eloeintollerhund_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/helferhundeallerlei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/humani_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hundefuerhandicaps_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hundeschule_bauwagen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hundeschulen_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hundkatzewolf_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/narkolepsie_assistenzhund_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pfoetchentraining_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pfotenpiloten_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/prodog_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rani_strand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rani_welpe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/swisshelpdogs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tteam-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/weisser_ring_logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/landing-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/landing-page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_assistenzhunde.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_assistenzhunde.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_pricing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/elo/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/elo/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/kontakt/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/links/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/links/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preise/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/verhaltensberatung/kaufberatung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Assistenzhunde/kaufberatung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +76,9 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/content/qualifikationen/_index.md" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1gmgyhdiVSdrRSVD69HIpaBTguU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,25 +93,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/qualifikationen" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Cucumber" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\images" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Assistenzhunde" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\files" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\verhaltensberatung" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\qualifikationen" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Familienhunde" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\links" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\fragenkatalog" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\ausbildung" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\files" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\verhaltensberatung" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\ausbildung" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,7 +168,14 @@
       <workItem from="1624896522457" duration="1819000" />
       <workItem from="1624898363527" duration="1489000" />
       <workItem from="1627595451507" duration="23000" />
-      <workItem from="1627822376602" duration="1298000" />
+      <workItem from="1627822376602" duration="1808000" />
+      <workItem from="1628096425003" duration="135000" />
+      <workItem from="1628096640771" duration="27000" />
+      <workItem from="1659297636502" duration="1368000" />
+      <workItem from="1661797243430" duration="2554000" />
+      <workItem from="1662382483742" duration="267000" />
+      <workItem from="1662394977842" duration="4611000" />
+      <workItem from="1662569046307" duration="8721000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -368,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627822871478</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Beta 1.0.6&#10;Slider fixed">
+      <created>1627823787033</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627823787033</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,36 +487,33 @@
     <MESSAGE value="Beta 1.0.3&#10;prices updated" />
     <MESSAGE value="Beta 1.0.4&#10;Aktuelles added" />
     <MESSAGE value="Beta 1.0.5&#10;Slider fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.5&#10;Slider fixed" />
+    <MESSAGE value="Beta 1.0.6&#10;Slider fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.6&#10;Slider fixed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624897423205">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="314" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659297658160">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624897423205" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1621175289494">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="314" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1659297658160" />
+    <state x="582" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662398388828">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621175289494" />
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1621175466204">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="582" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662398388828" />
+    <state x="361" y="348" key="SettingsEditor" timestamp="1662396652371">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621175466204" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1627822874428">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="361" y="348" key="SettingsEditor/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662396652371" />
+    <state x="567" y="303" width="585" height="801" key="find.popup" timestamp="1661798866740">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1627822874428" />
-    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1621188057861">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="567" y="303" width="585" height="801" key="find.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1661798866740" />
+    <state x="516" y="334" key="run.anything.popup" timestamp="1662396876050">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621188057861" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1624898252325">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="516" y="334" key="run.anything.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662396876050" />
+    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1661798840689">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1624898252325" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627822415623">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1627822415623" />
+    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1661798840689" />
   </component>
 </project>

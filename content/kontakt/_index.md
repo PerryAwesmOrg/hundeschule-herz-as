@@ -4,18 +4,16 @@ draft: false
 ---
 ### Kontakt
 
-Bei Fragen, Sorgen und Nöten, einfach eine Nachricht schicken!  
-  
-Mail: **info@hundeschule-herz-as.com**  
-Telefon: **05108-876 8 567**  
-  
-Hundeschule Herz-AS  
-Gehrden, Hannover
+Bei Fragen, Sorgen und Nöten, einfach eine Nachricht schicken!
 
-#### Meine Heimat 
-Ich wohne in einer Wohnung in Gehrden, daher arbeite ich mit euch lieber draußen oder direkt bei euch Zuhause.
-Bei Bedarf kann ich aber auch einen großen Hundeplatz anmieten. 
+Mail: **info@hundeschule-herz-as.com**
+<br>
+Telefon: **0177-9273213**
 
+Hundeschule Herz-AS<br>
+Im Loffenkamp 7,<br>
+31832 Eldagsen<br>
+    <br>
 
 #### Mobil - Wo fahre ich überall hin?
 In ganz Niedersachen, Bremen und Hamburg bin ich Unterwegs.

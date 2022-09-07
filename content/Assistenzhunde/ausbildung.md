@@ -13,9 +13,9 @@ wenn man mit seinem Assistenzhund in ein Geschäft geht.
 Für eine Probestunde einfach anmelden!  
   
 **Hundeschule Herz-AS  
-Telefon: 05108 - 876 8 567  
-hundeschule.herz.as@gmail.com**
-<br></br>
+Telefon: 0177-9273213<br>
+Email: info@hundeschule-herz-as.com**
+<br>
 ***
 ## Ausbildungsformen
 Je nach Art des Ausbildungsbereiches kann ein angehender Assistenzhund in unterschiedlichen Modulen ausgebildet werden:
