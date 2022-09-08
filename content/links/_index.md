@@ -3,7 +3,7 @@ title: "Links"
 draft: false
 ---
 <div class="linkgrid">
-    <figure class="griditem"><a target="_blank" rel="noopener noreferrer" href="https://www.assistenzhundeteams.com/"><img src="/images/assistenzhundeteams.jpg"/></a><figcaption>Gemeinsam stark für Assistenzhundeteams in D / AT / CH</figcaption></figure>
+    <figure class="griditem"><a target="_blank" rel="noopener noreferrer" href="https://www.assistenzhundeteams.com/"><img src="/images/assistenzhundeteams.png"/></a><figcaption>Gemeinsam stark für Assistenzhundeteams in D / AT / CH</figcaption></figure>
     <figure class="griditem"><a target="_blank" rel="noopener noreferrer" href="https://ezfg.de/"><img style="background: linear-gradient(0deg,#002966 0%,#011431 100%);" src="/images/EZFG_Logo_inv.svg"/></a><figcaption>EZFG</figcaption></figure>
     <figure class="griditem"><a target="_blank" rel="noopener noreferrer" href="https://reico-vital.com/de/"><img src="/images/reico.png"/></a><figcaption>Hundefutter von Reico</figcaption></figure>
     <figure class="griditem"><a target="_blank" rel="noopener noreferrer" href="https://www.narkolepsie-assistenzhund.com/"><img src="/images/narkolepsie_assistenzhund_logo.jpg"/></a><figcaption>Narkolepsie Assistenzhund</figcaption></figure>

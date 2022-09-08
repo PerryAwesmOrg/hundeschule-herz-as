@@ -19,7 +19,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.9" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Beta 1.9">
+      <change afterPath="$PROJECT_DIR$/static/images/assistenzhundeteams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/zertifikat_hundetrainerin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/templates/_assistenzhunde.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/templates/_assistenzhunde.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Assistenzhunde/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Assistenzhunde/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/datenschutz/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/datenschutz/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/links/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/links/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preise/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/assistenzhundeteams.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/assistenzhundeteams.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +149,8 @@
       <workItem from="1661797243430" duration="2554000" />
       <workItem from="1662382483742" duration="267000" />
       <workItem from="1662394977842" duration="4611000" />
-      <workItem from="1662569046307" duration="9076000" />
+      <workItem from="1662569046307" duration="9261000" />
+      <workItem from="1662642779929" duration="3774000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -390,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662581296998</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Beta 1.9">
+      <created>1662581575070</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1662581575070</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Beta 1.9">
+      <created>1662581747696</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1662581747696</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,10 +499,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="361" y="348" key="SettingsEditor/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662581415598" />
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1662581584721">
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1662581749858">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662581584721" />
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662581749858" />
     <state x="567" y="303" width="585" height="801" key="find.popup" timestamp="1661798866740">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

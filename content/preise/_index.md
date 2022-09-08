@@ -16,7 +16,7 @@ type: "post"
 | **Hundetraining**<br>| 1h | 60€ |
 | **Welpentraining**  <br>| 1h      |   60€ |
 
-### <br>Online Hunde Training
+### <br>Online Hunde-Trainingspaket
 |               | Dauer         | Preis  |
 | ------------- |:-------------:| -----:|
 | **Grundlagen 1** <br>für Welpen und jedes Alter  | 8h | 160€ |

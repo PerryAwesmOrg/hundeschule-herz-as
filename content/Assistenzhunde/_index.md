@@ -3,6 +3,10 @@ title: "Assistenzhunde"
 draft: false
 type: "post"
 ---
+
+<a class="btn btn-main" style="margin:0" target="_blank" rel="noopener noreferrer" href="https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/assistenzhundeverordnung.html">Assistenzhundeverordnung</a>
+***
+
 Ich biete zwei Varianten der Ausbildung an:
 1. Den vorhandenen Hund zusammen ausbilden 
 2. Wir suchen gemeinsam einen Welpen, Junghund oder erwachsenen Hund aus.  

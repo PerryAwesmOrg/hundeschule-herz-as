@@ -48,20 +48,33 @@
 }
 
 
+
 .linkgrid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 10px;
   row-gap: 15px;
 }
+
+@media screen and (max-width: 700px) {
+  .linkgrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
 .griditem{
   min-height: 10vw;
   max-height: 15vw;
-  box-shadow: 0 0 0px #888;
   display:flex;
   flex-direction: column;
   justify-content: center;
 
+}
+@media screen and (max-width: 700px) {
+  .griditem {
+    min-height: 40vw;
+    max-height: 45vw;
+  }
 }
 
 .griditem a{
