@@ -60,5 +60,6 @@ Mehr Informationen findet ihr auf <a href="https://reico-vital.com">reico-vital.
 Schreibt mir eine Email oder ruft mich an,
 so das ihr mir mitteilen könnt was ihr kaufen möchtet, dann bestelle ich es für euch und lasse es euch vor die Tür liefern. 
 <br><br>
-Mail: info@hundeschule-herz-as.com<br>
-Telefon: 05108-876 8 567
+Mail: **info@hundeschule-herz-as.com**
+<br>
+
