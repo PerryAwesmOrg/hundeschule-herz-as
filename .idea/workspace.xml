@@ -19,10 +19,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.2">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2022.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/datenschutz/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/datenschutz/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/kontakt/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +145,8 @@
       <workItem from="1662569046307" duration="9261000" />
       <workItem from="1662642779929" duration="6328000" />
       <workItem from="1662826340714" duration="308000" />
-      <workItem from="1662841008572" duration="517000" />
+      <workItem from="1662841008572" duration="687000" />
+      <workItem from="1664962020554" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -432,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662826413811</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Release 1.0.3">
+      <created>1662841689141</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1662841689141</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +483,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="all added" />
     <MESSAGE value="netlify change" />
     <MESSAGE value="url updated" />
     <MESSAGE value="cms updated" />
@@ -498,7 +507,8 @@
     <MESSAGE value="Release 1.0    :)" />
     <MESSAGE value="Release 1.0.1" />
     <MESSAGE value="Release 1.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.2" />
+    <MESSAGE value="Release 1.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="314" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659297658160">
@@ -513,10 +523,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="361" y="348" key="SettingsEditor/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662581415598" />
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1662826461418">
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1662841690292">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662826461418" />
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662841690292" />
+    <state x="1537" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662841678549">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1537" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662841678549" />
     <state x="567" y="303" width="585" height="801" key="find.popup" timestamp="1661798866740">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -525,9 +539,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="516" y="334" key="run.anything.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1662396876050" />
-    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1661798840689">
+    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1664962148983">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1661798840689" />
+    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1664962148983" />
   </component>
 </project>

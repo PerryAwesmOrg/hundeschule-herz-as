@@ -6,7 +6,7 @@ draft: false
 
 Bei Fragen, Sorgen und Nöten, einfach eine Nachricht schicken!
 
-Mail: **info@hundeschule-herz-as.com**
+Mail: **info@hundeschule-herz-as.de**
 <br>
 Telefon: **0177-9273213**
 
