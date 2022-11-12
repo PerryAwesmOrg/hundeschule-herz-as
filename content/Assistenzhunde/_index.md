@@ -30,7 +30,6 @@ Hier eine Übersicht an einigen Beispielen:
 * Epilepsie
 * Narkolepsie
 * Traumafolgestörungen / PTBS 
-* Schlaganfall
 * Autismus
 * Chronische Schmerzen
 * etc.
