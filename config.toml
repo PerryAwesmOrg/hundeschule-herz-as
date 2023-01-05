@@ -154,11 +154,6 @@ links = "www.google.com"
     weight = 3
 
     [[menu.main]]
-    name = "Elozucht"
-    URL = "elo"
-    weight = 4
-
-    [[menu.main]]
     name = "Aktuelles"
     URL = "aktuelles"
     weight = 5

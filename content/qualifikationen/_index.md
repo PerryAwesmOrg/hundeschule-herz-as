@@ -57,7 +57,8 @@ type: "post"
 
 ## Abschlüsse
 
-- Ausbildung zur Hundetrainerin bei der ATN
+
+- Ausbildung zur Assistenzhundetrainerin bei der ATN
 
 - Hundeerzieherin und Verhaltensberaterin des BHV mit Zertifikat der IHK Potsdam
 
