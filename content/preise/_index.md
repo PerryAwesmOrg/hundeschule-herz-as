@@ -25,7 +25,7 @@ type: "post"
 ### <br>Beratung
 |               | Dauer         | Preis  |
 | ------------- |:-------------:| -----:|
-| **Kaufberatung**  <br>auf Wunsch Begleitung zum Züchter oder Tierheim | 30 min | 25€ |
+| **Kaufberatung**  <br>auf Wunsch Begleitung zum Züchter oder Tierheim | 30 min | 50€ |
 | **Telefonische Beratung** <br>Terminvereinbarungen sind gratis  | 15 min |   10€ |
 
 Alle Preise sind exklusive der Fahrtkosten.

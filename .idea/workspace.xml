@@ -19,8 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.7">
       <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preise/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +146,7 @@
       <workItem from="1668268001553" duration="814000" />
       <workItem from="1672846621407" duration="54000" />
       <workItem from="1672935362708" duration="3129000" />
-      <workItem from="1675768686125" duration="49000" />
+      <workItem from="1675768686125" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -464,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672937096869</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Release 1.0.7">
+      <created>1675768753467</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1675768753467</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +511,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="neue seiten und seitenstyle" />
     <MESSAGE value="responsive improvement" />
     <MESSAGE value="semi alpha final" />
     <MESSAGE value="alpha final" />
@@ -530,13 +535,14 @@
     <MESSAGE value="Release 1.0.4" />
     <MESSAGE value="Release 1.0.5" />
     <MESSAGE value="Release 1.0.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.6" />
+    <MESSAGE value="Release 1.0.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="817" y="333" key="Vcs.Push.Dialog.v2" timestamp="1672937125596">
+    <state x="817" y="333" key="Vcs.Push.Dialog.v2" timestamp="1675768757032">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="817" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1672937125596" />
+    <state x="817" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1675768757032" />
     <state x="1463" y="448" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1668268268766" />
     <state x="1537" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668268157734">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -547,9 +553,5 @@
     </state>
     <state x="1075" y="273" width="555" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1672936923965" />
     <state x="1926" y="368" width="585" height="801" key="find.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1668268068429" />
-    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1664962148983">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="523" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1664962148983" />
   </component>
 </project>
