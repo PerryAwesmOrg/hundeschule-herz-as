@@ -7,7 +7,7 @@ type: "post"
 ### <br>Assistenzhunde Ausbildung
 |               | Dauer         | Preis  |
 | ------------- |:-------------:| -----:|
-| **Informationsbesuch** | 1h | 25€ |
+| **Informationsbesuch** | 1h | 50€ |
 | **Ausbildung** | 1h |   80€ |
 
 ### <br>Grundlagen-Training
@@ -32,7 +32,7 @@ Alle Preise sind exklusive der Fahrtkosten.
 
 
 ### <br>Fahrtkosten
-**Anfahrtspauschale  0,50€ pro Kilometer**
+**Anfahrtspauschale  1€ pro Kilometer**
 <br>
 
 
