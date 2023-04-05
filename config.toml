@@ -3,7 +3,7 @@ baseURL = "https://hundeschule-herz-as.de/"
 title = "Hundeschule Herz AS"
 DefaultContentLanguage = "de"
 # post pagination
-paginate = "4"
+paginate = "5"
 # post excerpt
 summaryLength = "30"
 # disqus short name
