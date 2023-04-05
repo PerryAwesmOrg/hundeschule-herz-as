@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.7">
-      <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/preise/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2022.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/recent_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/widgets/recent_posts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +59,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/qualifikationen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/aktuelles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\aktuelles" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\qualifikationen" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Familienhunde" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\links" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\fragenkatalog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\images" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Assistenzhunde" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\files" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\verhaltensberatung" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\qualifikationen" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Familienhunde" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\links" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\fragenkatalog" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\ausbildung" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -147,6 +150,8 @@
       <workItem from="1672846621407" duration="54000" />
       <workItem from="1672935362708" duration="3129000" />
       <workItem from="1675768686125" duration="189000" />
+      <workItem from="1678553826162" duration="2000" />
+      <workItem from="1680718346699" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -543,15 +548,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1675768757032" />
-    <state x="1463" y="448" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1668268268766" />
-    <state x="1537" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668268157734">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1537" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1668268157734" />
-    <state x="1075" y="273" width="555" height="596" key="find.popup" timestamp="1672936923965">
+    <state x="1075" y="273" width="555" height="596" key="find.popup" timestamp="1680719091660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1075" y="273" width="555" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1672936923965" />
-    <state x="1926" y="368" width="585" height="801" key="find.popup/0.0.3440.1400/-1920.0.1920.1080@0.0.3440.1400" timestamp="1668268068429" />
+    <state x="1075" y="273" width="555" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1680719091660" />
   </component>
 </project>

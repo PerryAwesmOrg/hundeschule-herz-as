@@ -12,7 +12,7 @@ Im Loffenkamp 7,<br>
 
 <br>
 
-Gewerbemeldung nach §15 Abs.1 GewO in der Stadt Gehrden 03241006
+Gewerbemeldung nach §15 Abs.1 GewO in der Stadt Springe 03241017
 
 <br>
 
