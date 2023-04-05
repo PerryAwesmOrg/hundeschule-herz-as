@@ -19,11 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.7">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.0.8">
+      <change afterPath="$PROJECT_DIR$/content/aktuelles/assistenzhundeverordnung.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2022.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/recent_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/widgets/recent_posts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +149,7 @@
       <workItem from="1672935362708" duration="3129000" />
       <workItem from="1675768686125" duration="189000" />
       <workItem from="1678553826162" duration="2000" />
-      <workItem from="1680718346699" duration="1466000" />
+      <workItem from="1680718346699" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598726383842</created>
@@ -475,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675768753467</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Release 1.0.8">
+      <created>1680719850165</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1680719850165</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +521,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="responsive improvement" />
     <MESSAGE value="semi alpha final" />
     <MESSAGE value="alpha final" />
     <MESSAGE value="alpha 1.0.1" />
@@ -541,16 +545,21 @@
     <MESSAGE value="Release 1.0.5" />
     <MESSAGE value="Release 1.0.6" />
     <MESSAGE value="Release 1.0.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.7" />
+    <MESSAGE value="Release 1.0.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.0.8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="817" y="333" key="Vcs.Push.Dialog.v2" timestamp="1675768757032">
+    <state x="817" y="333" key="Vcs.Push.Dialog.v2" timestamp="1680719852820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="817" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1675768757032" />
+    <state x="817" y="333" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1680719852820" />
     <state x="1075" y="273" width="555" height="596" key="find.popup" timestamp="1680719091660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1075" y="273" width="555" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1680719091660" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1680720731529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1680720731529" />
   </component>
 </project>
