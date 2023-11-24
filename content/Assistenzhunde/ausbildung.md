@@ -14,7 +14,7 @@ Für eine Probestunde einfach anmelden!
   
 **Hundeschule Herz-AS  
 Telefon: 0177-9273213<br>
-Email: info@hundeschule-herz-as.com**
+Email: info@hundeschule-herz-as.de**
 <br>
 ***
 ## Ausbildungsformen

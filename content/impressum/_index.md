@@ -6,7 +6,7 @@ Mail: **info@hundeschule-herz-as.de**
 <br>
 Telefon: **0177-9273213**
 
-Hundeschule Herz-AS<br>
+Hundeschule Herz-Ass<br>
 Im Loffenkamp 7,<br>
 31832 Eldagsen<br>
 
@@ -20,7 +20,7 @@ Hundeerzieherin und Verhaltensberaterin des BHV mit Zertifikat der IHK Potsdam
 vom Veterinäramt Hannover Region nach §11 überprüft.
 <br>
 
-Geschäftsführerin: Amelie Schulz
+Geschäftsführerin: Amelie Wanek
 St.Nr. 23/142/00408
 <br>
 
