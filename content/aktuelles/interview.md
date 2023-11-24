@@ -10,7 +10,7 @@ Assistenzhunde sind für viele Menschen eine sehr gute Möglichkeit,
 mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen.
 Oft ist das Tier Freund und Hilfsmittel zugleich. Es erfordert allerdings eine gute Ausbildung damit die Hunde ihrem 
 Frauchen oder Herrchen tatsächlich eine unverzichtbare Hilfe sein können. Wie sie dazu erzogen und ausgebildet werden,
-wollte die BSK-Mitarbeitering Anna Koch ganz genau wissen und befragte kurzerhand die Trainerin Amelie Schulz...
+wollte die BSK-Mitarbeitering Anna Koch ganz genau wissen und befragte kurzerhand die Trainerin Amelie Wanek...
  
 <br>
 
