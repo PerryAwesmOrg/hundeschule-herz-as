@@ -19,42 +19,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.2">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/agb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/agb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/blog-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/blog-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/corona/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/corona/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/frohes_neues_2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/frohes_neues_2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/instagram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/instagram/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/interview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/interview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/ausbildung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/ausbildung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/fragenkatalog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/fragenkatalog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/kaufberatung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/kaufberatung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/company-news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/company-news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/datenschutz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/datenschutz/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/elo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/familienhunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/familienhunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/futter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/futter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/impressum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/impressum/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/kontakt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/kontakt/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/links/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/preise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/preise/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/privacy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/qualifikationen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/qualifikationen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/advice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/advice/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/technology/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/technology/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/angsthunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/angsthunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/einzeltraining/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/einzeltraining/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/kaufberatung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/kaufberatung/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/assistenzhundeverordnung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/assistenzhundeverordnung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/corona.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/corona.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/instagram.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/instagram.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aktuelles/namensaenderung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/namensaenderung.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,21 +156,9 @@
       <workItem from="1678553826162" duration="2000" />
       <workItem from="1680718346699" duration="3772000" />
       <workItem from="1700060633202" duration="1149000" />
-      <workItem from="1700839856752" duration="1021000" />
-    </task>
-    <task id="LOCAL-00003" summary="init">
-      <created>1600216213652</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1600216213652</updated>
-    </task>
-    <task id="LOCAL-00004" summary="init">
-      <created>1600220430202</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1600220430202</updated>
+      <workItem from="1700839856752" duration="1355000" />
+      <workItem from="1700841264444" duration="472000" />
+      <workItem from="1702913721842" duration="2175000" />
     </task>
     <task id="LOCAL-00005" summary="init">
       <created>1600221401575</created>
@@ -529,7 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700840579937</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Release 1.1.3">
+      <created>1700840916198</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700840916198</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Release 1.1.4">
+      <created>1702915464697</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1702915464698</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,8 +544,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="alpha 1.0.3&#10;minor fixes" />
-    <MESSAGE value="alpha 1.0.3.1&#10;minor fixes" />
     <MESSAGE value="alpha 1.0.3.2&#10;minor fixes" />
     <MESSAGE value="alpha 1.0.3.3&#10;minor fixes" />
     <MESSAGE value="Beta 1.0" />
@@ -595,17 +567,23 @@
     <MESSAGE value="Release 1.1.0" />
     <MESSAGE value="Release 1.1.1" />
     <MESSAGE value="Release 1.1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.2" />
+    <MESSAGE value="Release 1.1.3" />
+    <MESSAGE value="Release 1.1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1700840581402">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702915467101">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1700840581402" />
-    <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1700840872001">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702915467101" />
+    <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1702914167985">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="667" y="136" width="585" height="888" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1700840872001" />
+    <state x="667" y="136" width="585" height="888" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1702914167985" />
+    <state x="601" y="306" width="700" height="530" key="recent.locations.popup" timestamp="1700841372519">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="601" y="306" width="700" height="530" key="recent.locations.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1700841372519" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1700840167436">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
