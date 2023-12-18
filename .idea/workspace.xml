@@ -19,14 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.4">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/assistenzhundeverordnung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/assistenzhundeverordnung.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/corona.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/corona.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/frohes_neues_2023.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/instagram.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/instagram.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/interview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/aktuelles/namensaenderung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aktuelles/namensaenderung.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,14 +152,7 @@
       <workItem from="1700060633202" duration="1149000" />
       <workItem from="1700839856752" duration="1355000" />
       <workItem from="1700841264444" duration="472000" />
-      <workItem from="1702913721842" duration="2175000" />
-    </task>
-    <task id="LOCAL-00005" summary="init">
-      <created>1600221401575</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1600221401575</updated>
+      <workItem from="1702913721842" duration="3366000" />
     </task>
     <task id="LOCAL-00006" summary="config fix">
       <created>1600221583516</created>
@@ -503,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702915464698</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Release 1.1.5">
+      <created>1702916068766</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1702916068766</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +538,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="alpha 1.0.3.2&#10;minor fixes" />
     <MESSAGE value="alpha 1.0.3.3&#10;minor fixes" />
     <MESSAGE value="Beta 1.0" />
     <MESSAGE value="Beta 1.0.1" />
@@ -569,13 +562,14 @@
     <MESSAGE value="Release 1.1.2" />
     <MESSAGE value="Release 1.1.3" />
     <MESSAGE value="Release 1.1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.4" />
+    <MESSAGE value="Release 1.1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702915467101">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702916070451">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702915467101" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702916070451" />
     <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1702914167985">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
