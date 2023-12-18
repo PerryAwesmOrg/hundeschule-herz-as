@@ -19,7 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.6" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.7">
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,19 +63,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\images\uploads" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\images" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Assistenzhunde" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\files" />
+      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\verhaltensberatung" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\aktuelles" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\qualifikationen" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Familienhunde" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\links" />
       <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde\fragenkatalog" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\images" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\Assistenzhunde" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\static\files" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\verhaltensberatung" />
-      <recent name="C:\Users\Merlin\WebstormProjects\hundeschule-herz-as\content\assistenzhunde" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -150,14 +152,7 @@
       <workItem from="1700060633202" duration="1149000" />
       <workItem from="1700839856752" duration="1355000" />
       <workItem from="1700841264444" duration="472000" />
-      <workItem from="1702913721842" duration="3673000" />
-    </task>
-    <task id="LOCAL-00007" summary="layer fixed">
-      <created>1600222022362</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1600222022362</updated>
+      <workItem from="1702913721842" duration="4123000" />
     </task>
     <task id="LOCAL-00008" summary="all added">
       <created>1600222935240</created>
@@ -495,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702917141033</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Release 1.1.7">
+      <created>1702917548557</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1702917548557</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +538,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="Beta 1.0" />
     <MESSAGE value="Beta 1.0.1" />
     <MESSAGE value="Beta 1.0.2&#10;minor topbar fixes" />
     <MESSAGE value="Beta 1.0.3&#10;prices updated" />
@@ -561,13 +562,14 @@
     <MESSAGE value="Release 1.1.4" />
     <MESSAGE value="Release 1.1.5" />
     <MESSAGE value="Release 1.1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.6" />
+    <MESSAGE value="Release 1.1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702917142261">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702917550240">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702917142261" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702917550240" />
     <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1702914167985">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
