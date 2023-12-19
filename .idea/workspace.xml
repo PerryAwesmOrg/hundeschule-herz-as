@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.9" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,14 +150,7 @@
       <workItem from="1700060633202" duration="1149000" />
       <workItem from="1700839856752" duration="1355000" />
       <workItem from="1700841264444" duration="472000" />
-      <workItem from="1702913721842" duration="7276000" />
-    </task>
-    <task id="LOCAL-00011" summary="netlify change">
-      <created>1600224103963</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1600224103963</updated>
+      <workItem from="1702913721842" duration="7937000" />
     </task>
     <task id="LOCAL-00012" summary="netlify change">
       <created>1600224531956</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702924524001</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Release 1.1.10">
+      <created>1702925409451</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1702925409451</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +536,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="Beta 1.0.3&#10;prices updated" />
     <MESSAGE value="Beta 1.0.4&#10;Aktuelles added" />
     <MESSAGE value="Beta 1.0.5&#10;Slider fixed" />
     <MESSAGE value="Beta 1.0.6&#10;Slider fixed" />
@@ -561,13 +560,14 @@
     <MESSAGE value="Release 1.1.7" />
     <MESSAGE value="Release 1.1.8" />
     <MESSAGE value="Release 1.1.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.9" />
+    <MESSAGE value="Release 1.1.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.10" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1702924524986">
+    <state x="552" y="321" width="816" height="526" key="Vcs.Push.Dialog.v2" timestamp="1702925412444">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702924524986" />
+    <state x="552" y="321" width="816" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702925412444" />
     <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1702914167985">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
