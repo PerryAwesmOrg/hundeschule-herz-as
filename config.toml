@@ -144,9 +144,9 @@ links = "www.google.com"
         URL = "assistenzhunde/kaufberatung"
 
     [[menu.main]]
-    name = "Preise"
-    URL = "preise"
-    weight = 2
+    name = "Kosten"
+    URL = "kosten"
+    weight = 5
 
     [[menu.main]]
     name = "Futter"
@@ -156,7 +156,7 @@ links = "www.google.com"
     [[menu.main]]
     name = "Aktuelles"
     URL = "aktuelles"
-    weight = 5
+    weight = 2
 
     [[menu.main]]
     name = "Qualifikationen"

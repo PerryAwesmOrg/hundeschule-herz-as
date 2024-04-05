@@ -19,7 +19,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.1.10" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.2.0">
+      <change afterPath="$PROJECT_DIR$/content/kosten/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/agb/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/agb/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/datenschutz/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/datenschutz/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/preise/_index.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,13 +159,8 @@
       <workItem from="1700839856752" duration="1355000" />
       <workItem from="1700841264444" duration="472000" />
       <workItem from="1702913721842" duration="7937000" />
-    </task>
-    <task id="LOCAL-00012" summary="netlify change">
-      <created>1600224531956</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1600224531956</updated>
+      <workItem from="1703004290631" duration="666000" />
+      <workItem from="1712327478726" duration="620000" />
     </task>
     <task id="LOCAL-00013" summary="netlify change">
       <created>1600224603058</created>
@@ -495,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702925409451</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Release 1.2.0">
+      <created>1703004356332</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1703004356333</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +546,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="Beta 1.0.4&#10;Aktuelles added" />
     <MESSAGE value="Beta 1.0.5&#10;Slider fixed" />
     <MESSAGE value="Beta 1.0.6&#10;Slider fixed" />
     <MESSAGE value="Beta 1.9" />
@@ -561,24 +570,13 @@
     <MESSAGE value="Release 1.1.8" />
     <MESSAGE value="Release 1.1.9" />
     <MESSAGE value="Release 1.1.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.1.10" />
+    <MESSAGE value="Release 1.2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.2.0" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="321" width="816" height="526" key="Vcs.Push.Dialog.v2" timestamp="1702925412444">
+    <state x="667" y="284" width="585" height="592" key="find.popup" timestamp="1712328066246">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="321" width="816" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1702925412444" />
-    <state x="667" y="136" width="585" height="888" key="find.popup" timestamp="1702914167985">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="667" y="136" width="585" height="888" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1702914167985" />
-    <state x="601" y="306" width="700" height="530" key="recent.locations.popup" timestamp="1700841372519">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="601" y="306" width="700" height="530" key="recent.locations.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1700841372519" />
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1700840167436">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1700840167436" />
+    <state x="667" y="284" width="585" height="592" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1712328066246" />
   </component>
 </project>

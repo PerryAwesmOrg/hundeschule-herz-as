@@ -6,6 +6,7 @@ Mail: **info@hundeschule-herz-as.de**
 <br>
 Telefon: **0177-9273213**
 
+Amelie Wanek<br>
 Hundeschule Herz-Ass<br>
 Im Loffenkamp 7,<br>
 31832 Eldagsen<br>

@@ -2,7 +2,10 @@
 title: "Einwilligung in die Datennutzung"
 draft: false
 ---
-
+Amelie Wanek<br>
+Hundeschule Herz-Ass<br>
+Im Loffenkamp 7,<br>
+31832 Eldagsen<br>
 
 <h1>Datenschutz&shy;erkl&auml;rung</h1>
 <h2>1. Datenschutz auf einen Blick</h2>

@@ -2,7 +2,10 @@
 title: "Vertragsinhalt, AGB"
 draft: false
 ---
- 
+ Amelie Wanek<br>
+ Hundeschule Herz-Ass<br>
+ Im Loffenkamp 7,<br>
+ 31832 Eldagsen<br>
 
 Pflichten, Vertragsinhalt
 
