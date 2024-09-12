@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.2.5">
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.2.6">
       <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/aktuelles/assistenzhundeverordnung/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/aktuelles/frohes_neues_2023/index.html" afterDir="false" />
@@ -34,6 +34,7 @@
       <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/style.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/agb/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/agb/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/datenschutz/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/datenschutz/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
@@ -236,14 +237,7 @@
       <workItem from="1703004290631" duration="666000" />
       <workItem from="1712327478726" duration="1282000" />
       <workItem from="1726149882006" duration="656000" />
-      <workItem from="1726151243898" duration="1084000" />
-    </task>
-    <task id="LOCAL-00014" summary="url updated">
-      <created>1600224952371</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1600224952371</updated>
+      <workItem from="1726151243898" duration="1472000" />
     </task>
     <task id="LOCAL-00015" summary="cms updated">
       <created>1600290856055</created>
@@ -581,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712328158007</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Release 1.2.6">
+      <created>1726152722000</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1726152722000</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +623,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="Beta 1.0.6&#10;Slider fixed" />
     <MESSAGE value="Beta 1.9" />
     <MESSAGE value="Release 1.0    :)" />
     <MESSAGE value="Release 1.0.1" />
@@ -647,12 +647,17 @@
     <MESSAGE value="Release 1.1.10" />
     <MESSAGE value="Release 1.2.0" />
     <MESSAGE value="Release 1.2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.2.5" />
+    <MESSAGE value="Release 1.2.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.2.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="284" width="690" height="654" key="find.popup" timestamp="1726150039721">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1726152726053">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="667" y="284" width="690" height="654" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1726150039721" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1726152726053" />
+    <state x="667" y="284" width="690" height="654" key="find.popup" timestamp="1726152521850">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="284" width="690" height="654" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1726152521850" />
   </component>
 </project>

@@ -14,8 +14,6 @@ Hundeschule Herz-AS<br>
 Heikenbergstr. 32,<br>
 37431 Bad Lauterberg<br>
 
-    <br>
-
 #### Mobil - Wo fahre ich überall hin?
 In ganz Niedersachen, Bremen und Hamburg bin ich Unterwegs.
 Wenn ihr weiter weg wohnt, können wir zusammen schauen, ob sich die Entfernung überbrücken lässt,
