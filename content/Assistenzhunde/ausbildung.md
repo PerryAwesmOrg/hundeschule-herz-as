@@ -12,7 +12,7 @@ wenn man mit seinem Assistenzhund in ein Geschäft geht.
 
 Für eine Probestunde einfach anmelden!  
   
-**Assistenzhundeschule Herz Ass 
+**Assistenzhundeschule Herz Ass <br>
 Telefon: 0177-9273213<br>
 Email: info@hundeschule-herz-as.de**
 <br>

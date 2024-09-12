@@ -19,89 +19,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.2.6">
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aktuelles/assistenzhundeverordnung/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aktuelles/frohes_neues_2023/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aktuelles/namensaenderung/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aktuelles/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/hundeschule.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/uploads/assistenzhunde_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kosten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kosten/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kosten/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/style.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/style.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.json" afterDir="false" />
+    <list default="true" id="632ae799-425e-4cb8-997a-e0c146474768" name="Default Changelist" comment="Release 1.2.7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Assistenzhunde/ausbildung.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/agb/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/agb/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/datenschutz/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/datenschutz/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/impressum/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/impressum/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/kontakt/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/kontakt/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/blog-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/page-title.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/page-title.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/agb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/agb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/agb/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/agb/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/agb/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/agb/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/corona/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/corona/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/instagram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/instagram/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/interview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/interview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aktuelles/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aktuelles/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/ausbildung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/ausbildung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/fragenkatalog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/fragenkatalog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/kaufberatung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/kaufberatung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assistenzhunde/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assistenzhunde/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/datenschutz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/datenschutz/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/datenschutz/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/datenschutz/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/datenschutz/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/datenschutz/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/elo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/elo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/elo/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/elo/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elo/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/familienhunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/familienhunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/familienhunde/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/familienhunde/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/familienhunde/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/familienhunde/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/futter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/futter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/futter/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/futter/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/futter/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/futter/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/impressum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/impressum/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/impressum/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/impressum/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/impressum/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/impressum/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/script.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/kontakt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/kontakt/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/kontakt/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/kontakt/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/kontakt/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/kontakt/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/links/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/links/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/links/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/links/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/links/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/qualifikationen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/qualifikationen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/qualifikationen/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/qualifikationen/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/qualifikationen/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/qualifikationen/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/scss/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/team/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/team/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/team/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/team/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/angsthunde/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/angsthunde/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/einzeltraining/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/einzeltraining/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/verhaltensberatung/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/verhaltensberatung/page/1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,14 +157,7 @@
       <workItem from="1703004290631" duration="666000" />
       <workItem from="1712327478726" duration="1282000" />
       <workItem from="1726149882006" duration="656000" />
-      <workItem from="1726151243898" duration="1472000" />
-    </task>
-    <task id="LOCAL-00015" summary="cms updated">
-      <created>1600290856055</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1600290856055</updated>
+      <workItem from="1726151243898" duration="2167000" />
     </task>
     <task id="LOCAL-00016" summary="cms updated">
       <created>1600291028601</created>
@@ -582,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726152722000</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Release 1.2.7">
+      <created>1726153022960</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1726153022960</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +543,6 @@
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes" />
       <path value="$PROJECT_DIR$/hundeschule-herz-as/themes/airspace-hugo" />
     </ignored-roots>
-    <MESSAGE value="Beta 1.9" />
     <MESSAGE value="Release 1.0    :)" />
     <MESSAGE value="Release 1.0.1" />
     <MESSAGE value="Release 1.0.2" />
@@ -648,13 +567,14 @@
     <MESSAGE value="Release 1.2.0" />
     <MESSAGE value="Release 1.2.5" />
     <MESSAGE value="Release 1.2.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Release 1.2.6" />
+    <MESSAGE value="Release 1.2.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Release 1.2.7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1726152726053">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1726153036234">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1726152726053" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1726153036234" />
     <state x="667" y="284" width="690" height="654" key="find.popup" timestamp="1726152521850">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
