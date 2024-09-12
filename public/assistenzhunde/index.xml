@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Assistenzhunde on Hundeschule Herz AS</title>
-    <link>https://hundeschule-herz-as.de/assistenzhunde/</link>
-    <description>Recent content in Assistenzhunde on Hundeschule Herz AS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://hundeschule-herz-as.de/assistenzhunde/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Assistenzhunde on Assistenzhundeschule Herz Ass</title>
+    <link>http://localhost:1313/assistenzhunde/</link>
+    <description>Recent content in Assistenzhunde on Assistenzhundeschule Herz Ass</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/assistenzhunde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ausbildung eines Assistenzhundes</title>
-      <link>https://hundeschule-herz-as.de/assistenzhunde/ausbildung/</link>
+      <link>http://localhost:1313/assistenzhunde/ausbildung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/assistenzhunde/ausbildung/</guid>
-      <description>Wie funktioniert das denn mit dem Assistenzhund im Lebensmittelgeschäft oder einem Geschäft wo normale Hunde nicht erlaubt sind?
-Einmal selber ausprobieren, so bekommt man ein Gefühl dafür, worauf man in der Öffentlichkeit achten sollte, wenn man mit seinem Assistenzhund in ein Geschäft geht.</description>
+      <guid>http://localhost:1313/assistenzhunde/ausbildung/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ausbildung.jpg&#34; style=&#34;float:left;max-width:40%;padding: 5px 15px 0 0;&#34;&gt;&lt;/img&gt;&#xA;Wie funktioniert das denn mit dem Assistenzhund im Lebensmittelgeschäft oder einem Geschäft wo normale Hunde nicht erlaubt sind?&lt;br&gt;&#xA;Einmal selber ausprobieren, so bekommt man ein Gefühl dafür, worauf man in der Öffentlichkeit achten sollte,&#xA;wenn man mit seinem Assistenzhund in ein Geschäft geht.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fragenkatalog</title>
-      <link>https://hundeschule-herz-as.de/assistenzhunde/fragenkatalog/</link>
+      <link>http://localhost:1313/assistenzhunde/fragenkatalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/assistenzhunde/fragenkatalog/</guid>
-      <description>Wer mit dem Gedanken spielt, sich einen Assistenzhund zu besorgen, sollte sich im Vorfeld einige Gedanken machen. Diesen Fragenkatalog, sollte jeder angehende (Assistenz-) Hundehalter für sich in die Überlegungen mit einbeziehen!</description>
+      <guid>http://localhost:1313/assistenzhunde/fragenkatalog/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/fragenkatalog.jpg&#34; style=&#34;align:left;max-width:75%;padding: 5px 15px 15px 0;margin-right:25%;&#34;&gt;&lt;/img&gt;&#xA;Wer mit dem Gedanken spielt, sich einen Assistenzhund zu besorgen, sollte sich im Vorfeld einige Gedanken machen. Diesen Fragenkatalog, sollte jeder angehende (Assistenz-) Hundehalter für sich in die Überlegungen mit einbeziehen!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kaufberatung</title>
-      <link>https://hundeschule-herz-as.de/assistenzhunde/kaufberatung/</link>
+      <link>http://localhost:1313/assistenzhunde/kaufberatung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/assistenzhunde/kaufberatung/</guid>
-      <description>Der wundervollste Bereich der Hundetrainer ist es, sich mit den noch jungen und süßen Welpen zu beschäftigen,und diese auf Eignung zum Assistenz- oder Familienhund zu überprüfen.Wichtig hierbei ist immer die Erfahrung des Züchters oder Tierpflegers,da sie sehr viel Zeit mit den verschiedenen Charakteren der Tiere zu tun hatten.</description>
+      <guid>http://localhost:1313/assistenzhunde/kaufberatung/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/images/ausbildung_2.jpg&#34; style=&#34;max-width:80%;padding: 0 0 15px 0;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;row&#34; style=&#34;margin-left: 0&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;col-md-12&#34; style=&#34;padding-left: 0&#34;&gt;&#xD;&#xA;        &lt;p&gt;Der wundervollste Bereich der Hundetrainer ist es, sich mit den noch jungen und süßen Welpen zu beschäftigen,&#xD;&#xA;          und diese auf Eignung zum Assistenz- oder Familienhund zu überprüfen.&#xD;&#xA;          Wichtig hierbei ist immer die Erfahrung des Züchters oder Tierpflegers,&#xD;&#xA;          da sie sehr viel  Zeit mit den verschiedenen Charakteren der Tiere zu tun hatten.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

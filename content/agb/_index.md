@@ -4,14 +4,15 @@ draft: false
 ---
  Amelie Wanek<br>
  Hundeschule Herz-Ass<br>
- Im Loffenkamp 7,<br>
- 31832 Eldagsen<br>
+ Heikenbergstr. 32,<br>
+ 37431 Bad Lauterberg<br>
+
 
 Pflichten, Vertragsinhalt
 
 1. Die Hundeschule wird den Hundehalter in der Ausbildung seines Hundes coachen und betreuen. Der Hundehalter ist über das Trainingsangebot und die Preise der Hundeschule informiert.
 
-2. Trainingsinhalt, Dauer und Preis des gewählten Angebotes sind der Homepage der Hundeschule Herz Asszu entnehmen. Über die Stundenanzahl beim Einzeltraining entscheidet die Trainerin von Stunde zu Stunde anhand der gegebenen Situation und der Fortschritte des Mensch-Hund-Teams in Absprache mit dem Hundehalter.
+2. Trainingsinhalt, Dauer und Preis des gewählten Angebotes sind der Homepage der Assistenzhundeschule Herz Ass zu entnehmen. Über die Stundenanzahl beim Einzeltraining entscheidet die Trainerin von Stunde zu Stunde anhand der gegebenen Situation und der Fortschritte des Mensch-Hund-Teams in Absprache mit dem Hundehalter.
 
 3. Das Honorar ist sofort zu Kursbeginn/Stundenbeginn im vollen Betrag bar zu entrichten.
 
@@ -23,7 +24,7 @@ Pflichten, Vertragsinhalt
 
 7. Versicherungspflicht: Der Hundehalter übergibt eine Kopie der bestehenden Hundehaftpflichtversicherung vor Trainingsbeginn und sichert zu, dass diese nach wie vor besteht und der betreffende Vertrag nicht beendet ist.
 
-8. Haftungsausschluss: Die Haftung der Hundeschule für leichte und mittlere Fahrlässigkeit wird ausgeschlossen. Die Teilnahme an den Angeboten der Hundeschule Herz Asserfolgt auf eigene Gefahr. Für Unfälle von Personen oder Hunden haftet die Hundeschule nicht. Bei Kämpfen und/oder Rangeleien unter Hunden haftet der jeweilige Hundehalter für etwaige Verletzungen an Hunden und/oder Menschen.
+8. Haftungsausschluss: Die Haftung der Hundeschule für leichte und mittlere Fahrlässigkeit wird ausgeschlossen. Die Teilnahme an den Angeboten der Assistenzhundeschule Herz Ass erfolgt auf eigene Gefahr. Für Unfälle von Personen oder Hunden haftet die Hundeschule nicht. Bei Kämpfen und/oder Rangeleien unter Hunden haftet der jeweilige Hundehalter für etwaige Verletzungen an Hunden und/oder Menschen.
 
 Haftungsfreistellungsverpflichtung: Der Hundehalter stellt die Hundeschule von einer eventuellen Inanspruchnahme, egal aus welchem rechtlichen Gesichtspunkt, frei; u.a. bei einer Inanspruchnahme aus Tieraufseherhaftung.
 
@@ -63,25 +64,25 @@ Salvatorische Klausel
 
 Allgemeine Geschäftsbedingungen
 
-1. Jeder volljährige Hundehalter kann an den Angeboten der Hundeschule Herz Assteilnehmen. Wenn für einzelne Angebote bestimmte Zulassungsvoraussetzungen gelten, so muss der Teilnehmer diese erfüllen. Minderjährige dürfen nur in Begleitung ihrer Eltern oder einer anderen erwachsenen Aufsichtsperson an den Angeboten der Hundeschule Herz Assteilnehmen.
+1. Jeder volljährige Hundehalter kann an den Angeboten der Assistenzhundeschule Herz Ass teilnehmen. Wenn für einzelne Angebote bestimmte Zulassungsvoraussetzungen gelten, so muss der Teilnehmer diese erfüllen. Minderjährige dürfen nur in Begleitung ihrer Eltern oder einer anderen erwachsenen Aufsichtsperson an den Angeboten der Assistenzhundeschule Herz Ass teilnehmen.
 
 2. Für teilnehmende Hunde muss eine gültige Haftpflichtversicherung bestehen. Diese ist zur ersten Stunde/vor Beginn des Trainings nachzuweisen.
 
 3. Teilnehmende Hunde müssen gemäß den aktuellen veterinärmedizinischen Standards geimpft und frei von ansteckenden Krankheiten sowie ungezieferfrei sein. Dies ist zur ersten Stunde/vor Beginn des Trainings durch Vorlage des Impfpasses nachzuweisen.
 
-4. Der Hundehalter verpflichtet sich, bekannte Krankheiten, körperliche Beschwerden und Allergien des Hundes vorab mitzuteilen. Auch über Verhaltensauffälligkeiten, insbesondere über aggressive Verhaltensweisen gegenüber Menschen und anderen Hunden (z.B. schnappen, beißen, Beißvorfälle in der Vergangenheit) ist die Hundeschule Herz Assrechtzeitig vor Trainingsbeginn zu informieren.
+4. Der Hundehalter verpflichtet sich, bekannte Krankheiten, körperliche Beschwerden und Allergien des Hundes vorab mitzuteilen. Auch über Verhaltensauffälligkeiten, insbesondere über aggressive Verhaltensweisen gegenüber Menschen und anderen Hunden (z.B. schnappen, beißen, Beißvorfälle in der Vergangenheit) ist die Assistenzhundeschule Herz Ass rechtzeitig vor Trainingsbeginn zu informieren.
 
 5. Läufige Hündinnen dürfen nicht an den Gruppenangeboten teilnehmen. Hier besteht die Möglichkeit, versäumte Stunden nachzuholen.
 
-6. Die Anmeldung zu Angeboten der Hundeschule Herz Assist nur juristischen Personen und
+6. Die Anmeldung zu Angeboten der Assistenzhundeschule Herz Ass ist nur juristischen Personen und
 
-unbeschränkt geschäftsfähigen natürlichen Personen erlaubt. Mit der schriftlichen (E-Mail, Brief, Onlineformular), telefonischen oder mündlichen Anmeldung und Terminvereinbarung bietet der Teilnehmer der Hundeschule Herz Assden Abschluss eines Vertrages verbindlich an und verpflichtet sich, am gewählten Angebot teilzunehmen, sowie die fälligen Leistungsgebühren zu Beginn des Termins/Kurses bar zu bezahlen.
+unbeschränkt geschäftsfähigen natürlichen Personen erlaubt. Mit der schriftlichen (E-Mail, Brief, Onlineformular), telefonischen oder mündlichen Anmeldung und Terminvereinbarung bietet der Teilnehmer der Assistenzhundeschule Herz Ass den Abschluss eines Vertrages verbindlich an und verpflichtet sich, am gewählten Angebot teilzunehmen, sowie die fälligen Leistungsgebühren zu Beginn des Termins/Kurses bar zu bezahlen.
 
 Durch seine Unterschrift auf dem Vertragsformular bzw. durch eine schriftliche Anmeldung per EMail, Brief, Onlineformular oder durch eine telefonische Terminabsprache, erkennt der Teilnehmer diese AGB als Vertragsbestandteil an.
 
-Die Anmeldungen zu Angeboten der Hundeschule Herz Asswerden von dieser per E-Mail, Brief oder telefonisch bestätigt.
+Die Anmeldungen zu Angeboten der Assistenzhundeschule Herz Ass werden von dieser per E-Mail, Brief oder telefonisch bestätigt.
 
-Der Vertrag kommt mit der Annahme durch die Hundeschule Herz Asszustande.
+Der Vertrag kommt mit der Annahme durch die Assistenzhundeschule Herz Ass zustande.
 
 7. Der unterschriebene Dienstleistungsvertrag für Kursangebote, Welpenstunde oder Einzeltraining wird der Trainerin zur ersten Stunde bzw. zum ersten vereinbarten Termin übergeben und berechtigt den Hundehalter zur Teilnahme am entsprechenden Angebot.
 
@@ -93,9 +94,9 @@ Der Vertrag kommt mit der Annahme durch die Hundeschule Herz Asszustande.
 
 Dem Hundehalter ist bewusst, dass die gelernten Methoden nur bei konsequenter Umsetzung auch außerhalb der Trainingseinheiten Erfolg haben können.
 
-9. Für die Teilnahme an den Angeboten der Hundeschule Herz Asswerden von dem Teilnehmer Gebühren in der Höhe erhoben, die zum Zeitpunkt des Lehrgangs-/Kursbeginns gültig sind.
+9. Für die Teilnahme an den Angeboten der Assistenzhundeschule Herz Ass werden von dem Teilnehmer Gebühren in der Höhe erhoben, die zum Zeitpunkt des Lehrgangs-/Kursbeginns gültig sind.
 
-Die Höhe der Gebühren ist den jeweils gültigen Angebotsbeschreibungen auf der Internetseite der Hundeschule Herz Asszu entnehmen oder bei der Hundeschule Herz Asszu erfragen.
+Die Höhe der Gebühren ist den jeweils gültigen Angebotsbeschreibungen auf der Internetseite der Assistenzhundeschule Herz Ass zu entnehmen oder bei der Assistenzhundeschule Herz Ass zu erfragen.
 
 10. Die anfallenden Gebühren für die gewählten Angebote sind in der Regel zum ersten Termin/zur ersten Unterrichtsstunde im vollen Betrag bar zu zahlen. Bei Einzeltrainings werden eventuelle Fahrtkosten zugerechnet.
 
@@ -111,7 +112,7 @@ Die Höhe der Gebühren ist den jeweils gültigen Angebotsbeschreibungen auf der
 
 16. Vereinbarte Termin und Unterrichtsstunden beginnen pünktlich zur festgelegten Zeit. Verspätungen von Teilnehmern gehen zu deren Lasten und berechtigen nicht zur Minderung der Vergütung
 
-17. Die Hundeschule Herz Assund Amelie Wanek behält sich vor, das Training nach eigenem Ermessen abzubrechen, wenn relevante Gründe dafür vorliegen.
+17. Die Assistenzhundeschule Herz Ass und Amelie Wanek behält sich vor, das Training nach eigenem Ermessen abzubrechen, wenn relevante Gründe dafür vorliegen.
 
  
 
@@ -119,21 +120,21 @@ Die Höhe der Gebühren ist den jeweils gültigen Angebotsbeschreibungen auf der
 
 Bereits gezahlte Gebühren werden in diesem Fall anteilig erstattet oder es wird ein neuer Termin vereinbart.
 
-18. Die Hundeschule Herz Assund Amelie kann ohne Einschränkung einer Frist vom Vertrag zurücktreten, wenn sich der Hundehalter/Hundeeigentümer vertragswidrig verhält oder wenn durch das Verhalten des Hundes Gefahr für andere Menschen besteht. Eine Kostenrückerstattung ist in diesen Fällen ausgeschlossen.
+18. Die Assistenzhundeschule Herz Ass und Amelie kann ohne Einschränkung einer Frist vom Vertrag zurücktreten, wenn sich der Hundehalter/Hundeeigentümer vertragswidrig verhält oder wenn durch das Verhalten des Hundes Gefahr für andere Menschen besteht. Eine Kostenrückerstattung ist in diesen Fällen ausgeschlossen.
 
-19. Die Teilnahme oder der Besuch jeglicher Veranstaltungen der Hundeschule Herz Asserfolgt auf eigenes Risiko des Teilnehmers. Gleiches gilt für alle Begleit- und Besuchspersonen. Jegliche Begleitpersonen sind durch den Teilnehmer von dem Haftungsausschluss sowie von den übrigen Vereinbarungen (AGB etc.) in Kenntnis zu setzen.
+19. Die Teilnahme oder der Besuch jeglicher Veranstaltungen der Assistenzhundeschule Herz Ass erfolgt auf eigenes Risiko des Teilnehmers. Gleiches gilt für alle Begleit- und Besuchspersonen. Jegliche Begleitpersonen sind durch den Teilnehmer von dem Haftungsausschluss sowie von den übrigen Vereinbarungen (AGB etc.) in Kenntnis zu setzen.
 
-20. Die Teilnehmer haften für alle durch ihre Hunde oder sie selbst verursachten Personen-, Sach und Vermögensschäden. Dies gilt sowohl für Schäden, die auf dem angemieteten Trainingsgelände der Hundeschule Herz Assentstehen, als auch für solche, die außerhalb entstehen.
+20. Die Teilnehmer haften für alle durch ihre Hunde oder sie selbst verursachten Personen-, Sach und Vermögensschäden. Dies gilt sowohl für Schäden, die auf dem angemieteten Trainingsgelände der Assistenzhundeschule Herz Ass entstehen, als auch für solche, die außerhalb entstehen.
 
 21. Während des Trainings/Unterrichts ist den Anweisungen durch die Trainerin Folge zu leisten. Für Schäden, die der Teilnehmer durch Missachtung dieser AGB oder durch Missachtung der Anweisungen der Trainerin verursacht, haftet ausschließlich der Teilnehmer.
 
 22. Das Krankheits- und Verletzungsrisiko während des Trainingszeitraumes tragen die Teilnehmer.
 
-23. Die Hundeschule Herz Assübernimmt keinerlei Haftung für Sach-, Personen- und/oder Vermögensschäden, die durch die Anwendung der gezeigten Übungen entstehen, sowie für Verletzungen/Schäden, die durch teilnehmende und/oder begleitende Hunde entstehen.
+23. Die Assistenzhundeschule Herz Ass übernimmt keinerlei Haftung für Sach-, Personen- und/oder Vermögensschäden, die durch die Anwendung der gezeigten Übungen entstehen, sowie für Verletzungen/Schäden, die durch teilnehmende und/oder begleitende Hunde entstehen.
 
 24. Die Teilnehmer übernehmen die alleinige Haftung für ihre Hunde, auch wenn sie auf Veranlassung der Trainerin handeln.
 
-25. Die Hundeschule Herz Asshaftet nur bei eigener grober Fahrlässigkeit oder Vorsatz. Eine weitergehende Haftung ist ausgeschlossen.
+25. Die Assistenzhundeschule Herz Ass haftet nur bei eigener grober Fahrlässigkeit oder Vorsatz. Eine weitergehende Haftung ist ausgeschlossen.
 
 26. Dem Ausschluss eines Haftungs- und/oder Kostenersatzanspruches zu den Inhalten der Vertragsbedingungen gegen die Hundeschule Herz-Ass und Amelie Wanek wird ausdrücklich zugestimmt. Dies betrifft die Haftung für Personenschäden, Sachschäden oder Vermögensschäden.
 
@@ -143,6 +144,6 @@ Bereits gezahlte Gebühren werden in diesem Fall anteilig erstattet oder es wird
 
  
 
-28. Die Hundeschule Herz Assübernimmt keine Erfolgsgarantie für die im Rahmen des Unterrichts vermittelten Inhalte. Es wird darauf hingewiesen, dass der Erfolg in erster Linie vom Teilnehmer selbst und dessen Hund abhängig ist.
+28. Die Assistenzhundeschule Herz Ass übernimmt keine Erfolgsgarantie für die im Rahmen des Unterrichts vermittelten Inhalte. Es wird darauf hingewiesen, dass der Erfolg in erster Linie vom Teilnehmer selbst und dessen Hund abhängig ist.
 
 29. Sollten einzelne Klauseln dieser AGB rechtsunwirksam sein oder werden, so bleiben die restlichen Bestimmungen hiervon unberührt und die AGB als solche wirksam. Im Falle der Unwirksamkeit einzelner Klauseln oder für nicht in diesen AGB benannte Bestimmungen gelten die jeweiligen gesetzlichen Vorschriften.

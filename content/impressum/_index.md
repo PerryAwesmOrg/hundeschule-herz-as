@@ -8,8 +8,8 @@ Telefon: **0177-9273213**
 
 Amelie Wanek<br>
 Hundeschule Herz-Ass<br>
-Im Loffenkamp 7,<br>
-31832 Eldagsen<br>
+Heikenbergstr. 32,<br>
+37431 Bad Lauterberg<br>
 
 <br>
 

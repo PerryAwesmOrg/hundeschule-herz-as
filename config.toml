@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://hundeschule-herz-as.de/"
-title = "Hundeschule Herz Ass"
+title = "Assistenzhundeschule Herz Ass"
 DefaultContentLanguage = "de"
 # post pagination
 paginate = "5"
@@ -147,11 +147,6 @@ links = "www.google.com"
     name = "Kosten"
     URL = "kosten"
     weight = 5
-
-    [[menu.main]]
-    name = "Futter"
-    URL = "futter"
-    weight = 3
 
     [[menu.main]]
     name = "Aktuelles"

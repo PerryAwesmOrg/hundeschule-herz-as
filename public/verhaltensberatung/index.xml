@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verhaltensberatung on Hundeschule Herz AS</title>
-    <link>https://hundeschule-herz-as.de/verhaltensberatung/</link>
-    <description>Recent content in Verhaltensberatung on Hundeschule Herz AS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://hundeschule-herz-as.de/verhaltensberatung/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Verhaltensberatung on Assistenzhundeschule Herz Ass</title>
+    <link>http://localhost:1313/verhaltensberatung/</link>
+    <description>Recent content in Verhaltensberatung on Assistenzhundeschule Herz Ass</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/verhaltensberatung/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angsthunde</title>
-      <link>https://hundeschule-herz-as.de/verhaltensberatung/angsthunde/</link>
+      <link>http://localhost:1313/verhaltensberatung/angsthunde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/verhaltensberatung/angsthunde/</guid>
-      <description>Angst ist ein lähmendes Gefühl, es verursacht großen Stress und verändert alles.
-Manchmal muss der Weg erst zum Tierarzt gehen, damit der Hund mit natürlichen Mitteln oder auch mit medikamentöser Behandlung aus dem hohen Stresslevel der Angst herauskommt,damit sich die Muskeln entspannen können und der Hund anfangen kann zu lernen.</description>
+      <guid>http://localhost:1313/verhaltensberatung/angsthunde/</guid>
+      <description>&lt;div class=&#34;row&#34; style=&#34;margin-left: 0&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/angsthunde_1.jpg&#34; style=&#34;float:right;max-width:40%;padding: 0 10px 0 10px&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;col-md-4&#34; style=&#34;padding-left: 0&#34;&gt;&#xD;&#xA;        &lt;p&gt;Angst ist ein lähmendes Gefühl, es verursacht großen Stress und verändert alles.&lt;br&gt;&#xD;&#xA;        Manchmal muss der Weg erst zum Tierarzt gehen, damit der Hund mit natürlichen Mitteln oder &#xD;&#xA;        auch mit medikamentöser Behandlung aus dem hohen Stresslevel der Angst herauskommt,&#xD;&#xA;        damit sich die Muskeln entspannen können und der Hund anfangen kann zu lernen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Einzeltraining</title>
-      <link>https://hundeschule-herz-as.de/verhaltensberatung/einzeltraining/</link>
+      <link>http://localhost:1313/verhaltensberatung/einzeltraining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/verhaltensberatung/einzeltraining/</guid>
-      <description>Schritt 1Ich komme euch erstmal in Zuhause besuchen und schaue mir euren Alltag an um zu sehen wo es hakt.Du berichtest mir was Du Dir wünscht, wie Dein Hund sich stattdessen verhalten soll.</description>
+      <guid>http://localhost:1313/verhaltensberatung/einzeltraining/</guid>
+      <description>&lt;div class=&#34;row&#34; style=&#34;margin-left: 0; padding-bottom: 10px;&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/einzeltraining_1.jpg&#34; style=&#34;float:right;max-width:40%;padding: 20px 10px 0 10px&#34;&gt;&#xD;&#xA;    &lt;h2&gt;Schritt 1&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;Ich komme euch erstmal in Zuhause besuchen und schaue mir euren Alltag an um zu sehen wo es hakt.&#xD;&#xA;    Du berichtest mir was Du Dir wünscht, wie Dein Hund sich stattdessen verhalten soll.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hier kommt Allgemein hin on Hundeschule Herz AS</title>
-    <link>https://hundeschule-herz-as.de/familienhunde/</link>
-    <description>Recent content in Hier kommt Allgemein hin on Hundeschule Herz AS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://hundeschule-herz-as.de/familienhunde/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Hier kommt Allgemein hin on Assistenzhundeschule Herz Ass</title>
+    <link>http://localhost:1313/familienhunde/</link>
+    <description>Recent content in Hier kommt Allgemein hin on Assistenzhundeschule Herz Ass</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/familienhunde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hier kommt Hundetraining hin</title>
-      <link>https://hundeschule-herz-as.de/familienhunde/hundetraining/</link>
+      <link>http://localhost:1313/familienhunde/hundetraining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/familienhunde/hundetraining/</guid>
+      <guid>http://localhost:1313/familienhunde/hundetraining/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hier kommt Kaufberatung hin</title>
-      <link>https://hundeschule-herz-as.de/familienhunde/kaufberatung/</link>
+      <link>http://localhost:1313/familienhunde/kaufberatung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/familienhunde/kaufberatung/</guid>
+      <guid>http://localhost:1313/familienhunde/kaufberatung/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

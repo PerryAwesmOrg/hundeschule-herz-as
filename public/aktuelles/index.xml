@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hundeschule Herz AS</title>
-    <link>https://hundeschule-herz-as.de/aktuelles/</link>
-    <description>Recent content on Hundeschule Herz AS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://hundeschule-herz-as.de/aktuelles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Assistenzhundeschule Herz Ass</title>
+    <link>http://localhost:1313/aktuelles/</link>
+    <description>Recent content on Assistenzhundeschule Herz Ass</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 19 Dec 2023 16:57:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/aktuelles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Corona</title>
-      <link>https://hundeschule-herz-as.de/aktuelles/corona/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/aktuelles/corona/</guid>
-      <description>Da nach der ersten Corona-Welle die Bedingungen wieder gelockert werden, kann wieder Einzeltraining stattfinden!
-Folgende Hygiene Anforderungen werden wir beachten:
-  1,5 - 2 Meter Abstand
-  Mund und Nasenschutz</description>
+      <title>Namensänderung</title>
+      <link>http://localhost:1313/aktuelles/namensaenderung/</link>
+      <pubDate>Tue, 19 Dec 2023 16:57:05 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/namensaenderung/</guid>
+      <description>&lt;p&gt;Da ich meinen Familiennamen wieder angenommen habe, bin ich statt Frau Schulz jetzt wieder Amelie Wanek.&#xA;Im Zuge dessen ist die Hundeschule auch nicht mehr Herz-AS sondern Hundeschule Herz-Ass&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Folge mir auf Instagram</title>
-      <link>https://hundeschule-herz-as.de/aktuelles/instagram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/aktuelles/instagram/</guid>
-      <description>Ab sofort findet ihr mich auch sofort auf Instagram</description>
-    </item>
-    
-    <item>
-      <title>Frohes Neues Jahr 2020 !!!</title>
-      <link>https://hundeschule-herz-as.de/aktuelles/frohes_neues_2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/aktuelles/frohes_neues_2020/</guid>
-      <description>Meine zwei Hunde und ich wünschen Euch allen ein Frohes Neues Jahr 2020.</description>
-    </item>
-    
     <item>
       <title>Mein Interview mit der BSK</title>
-      <link>https://hundeschule-herz-as.de/aktuelles/interview/</link>
+      <link>http://localhost:1313/aktuelles/interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hundeschule-herz-as.de/aktuelles/interview/</guid>
-      <description>Hilfe auf vier Pfoten Assistenzhunde sind für viele Menschen eine sehr gute Möglichkeit, mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen. Oft ist das Tier Freund und Hilfsmittel zugleich.</description>
+      <guid>http://localhost:1313/aktuelles/interview/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hilfe auf vier Pfoten&lt;/strong&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;Assistenzhunde sind für viele Menschen eine sehr gute Möglichkeit,&#xA;mit Ängsten oder den alltäglichen Herausforderungen des Lebens klar zu kommen.&#xA;Oft ist das Tier Freund und Hilfsmittel zugleich. Es erfordert allerdings eine gute Ausbildung damit die Hunde ihrem&#xA;Frauchen oder Herrchen tatsächlich eine unverzichtbare Hilfe sein können. Wie sie dazu erzogen und ausgebildet werden,&#xA;wollte die BSK-Mitarbeitering Anna Koch ganz genau wissen und befragte kurzerhand die Trainerin Amelie Wanek&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Folge mir auf Instagram</title>
+      <link>http://localhost:1313/aktuelles/instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/instagram/</guid>
+      <description>&lt;p&gt;Ab sofort findet ihr mich auch sofort auf&#xA;&lt;a href=&#34;https://www.instagram.com/hundeschule_herz_as/&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frohes Neues Jahr 2023 !!!</title>
+      <link>http://localhost:1313/aktuelles/frohes_neues_2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/frohes_neues_2023/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/frohes_neues.jpg&#34; style=&#34;float:right;max-width:50%;padding: 5px 15px 0 0;&#34;&gt;&lt;/img&gt;&#xA;Meine zwei Hunde und ich wünschen Euch allen ein Frohes Neues Jahr 2023.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Corona</title>
+      <link>http://localhost:1313/aktuelles/corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/corona/</guid>
+      <description>&lt;p&gt;Da nach der ersten Corona-Welle die Bedingungen wieder gelockert werden, kann wieder Einzeltraining stattfinden!&lt;/p&gt;&#xA;&lt;p&gt;Folgende Hygiene Anforderungen werden wir beachten:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1,5 - 2 Meter Abstand&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mund und Nasenschutz&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bei Erkältungssymptomen wird das Training kurzfristig verlegt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die neue Assistenzhundeverordnung</title>
+      <link>http://localhost:1313/aktuelles/assistenzhundeverordnung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/assistenzhundeverordnung/</guid>
+      <description>&lt;p&gt;Die &lt;a href=&#34;https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/assistenzhundeverordnung.html&#34;&gt;Assistenzhundeverordnung&lt;/a&gt; legt Standards für die Eignung, Ausbildung und Prüfung von Assistenzhunden sowie die Zulassung von Ausbildungsstätten und Prüfern fest. Es gibt auch eine Übergangsregelung für bereits ausgebildete und geprüfte Hunde sowie für Hunde, die sich noch in Ausbildung befinden. Eine weitere Neuerung ist die einheitliche Kennzeichnung aller Assistenzhunde.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

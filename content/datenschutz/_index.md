@@ -4,8 +4,9 @@ draft: false
 ---
 Amelie Wanek<br>
 Hundeschule Herz-Ass<br>
-Im Loffenkamp 7,<br>
-31832 Eldagsen<br>
+Heikenbergstr. 32,<br>
+37431 Bad Lauterberg<br>
+
 
 <h1>Datenschutz&shy;erkl&auml;rung</h1>
 <h2>1. Datenschutz auf einen Blick</h2>
@@ -21,8 +22,9 @@ Mail: **info@hundeschule-herz-as.de**
 Telefon: **0177-9273213**
 
 Hundeschule Herz-AS<br>
-Im Loffenkamp 7<br>
-31832 Eldagsen<br>
+Heikenbergstr. 32,<br>
+37431 Bad Lauterberg<br>
+
     <br>
  <p>Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. &Auml;.) entscheidet.</p>
 
