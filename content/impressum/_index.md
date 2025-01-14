@@ -13,7 +13,7 @@ Heikenbergstr. 32,<br>
 
 <br>
 
-Gewerbemeldung nach §15 Abs.1 GewO in der Stadt Springe 03241017
+Gewerbemeldung nach §15 Abs.1 GewO in der Stadt Bad Lauterberg
 
 <br>
 
