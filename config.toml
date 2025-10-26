@@ -2,14 +2,19 @@
 baseURL = "https://hundeschule-herz-as.de/"
 title = "Assistenzhundeschule Herz Ass"
 DefaultContentLanguage = "de"
-# post pagination
-paginate = "5"
+
+[pagination]
+pagerSize = 5
+
 # post excerpt
-summaryLength = "30"
+summaryLength = 30
+
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+
 # disable language
 disableLanguages = []
+
 
 ################################# Outputs #################################
 # hugo outputs
