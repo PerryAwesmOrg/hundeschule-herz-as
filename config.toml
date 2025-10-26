@@ -3,7 +3,6 @@ baseURL = "https://hundeschule-herz-as.de/"
 title = "Assistenzhundeschule Herz Ass"
 DefaultContentLanguage = "de"
 
-# post pagination (neues Schema)
 [pagination]
 pagerSize = 5
 
