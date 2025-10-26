@@ -1,8 +1,8 @@
 ---
 title: Namensänderung
 draft: false
-weight: 1
-date: 2023-12-19T16:57:05.485Z
+date: 2025-02-10
+weight: 10
 ---
 
 Da ich meinen Familiennamen wieder angenommen habe, bin ich statt Frau Schulz jetzt wieder Amelie Wanek. 
