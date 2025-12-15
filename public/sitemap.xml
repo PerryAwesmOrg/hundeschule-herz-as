@@ -2,73 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aktuelles/assistenzhundeverordnung/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/assistenzhundeverordnung/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/interview/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/interview/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/instagram/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/instagram/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/corona/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/corona/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/frohes_neues_2023/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/namensaenderung/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hundeschule-herz-as.de/aktuelles/frohes_neues_2023/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/</loc>
+    <loc>https://hundeschule-herz-as.de/aktuelles/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hundeschule-herz-as.de/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/verhaltensberatung/angsthunde/</loc>
+    <loc>https://hundeschule-herz-as.de/verhaltensberatung/angsthunde/</loc>
   </url><url>
-    <loc>http://localhost:1313/assistenzhunde/</loc>
+    <loc>https://hundeschule-herz-as.de/assistenzhunde/</loc>
   </url><url>
-    <loc>http://localhost:1313/assistenzhunde/ausbildung/</loc>
+    <loc>https://hundeschule-herz-as.de/assistenzhunde/ausbildung/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hundeschule-herz-as.de/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/elo/</loc>
+    <loc>https://hundeschule-herz-as.de/elo/</loc>
   </url><url>
-    <loc>http://localhost:1313/datenschutz/</loc>
+    <loc>https://hundeschule-herz-as.de/datenschutz/</loc>
   </url><url>
-    <loc>http://localhost:1313/verhaltensberatung/einzeltraining/</loc>
+    <loc>https://hundeschule-herz-as.de/verhaltensberatung/einzeltraining/</loc>
   </url><url>
-    <loc>http://localhost:1313/assistenzhunde/fragenkatalog/</loc>
+    <loc>https://hundeschule-herz-as.de/assistenzhunde/fragenkatalog/</loc>
   </url><url>
-    <loc>http://localhost:1313/futter/</loc>
+    <loc>https://hundeschule-herz-as.de/futter/</loc>
   </url><url>
-    <loc>http://localhost:1313/galerie/</loc>
+    <loc>https://hundeschule-herz-as.de/galerie/</loc>
   </url><url>
-    <loc>http://localhost:1313/familienhunde/</loc>
+    <loc>https://hundeschule-herz-as.de/familienhunde/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>https://hundeschule-herz-as.de/team/</loc>
   </url><url>
-    <loc>http://localhost:1313/familienhunde/hundetraining/</loc>
+    <loc>https://hundeschule-herz-as.de/familienhunde/hundetraining/</loc>
   </url><url>
-    <loc>http://localhost:1313/familienhunde/kaufberatung/</loc>
+    <loc>https://hundeschule-herz-as.de/familienhunde/kaufberatung/</loc>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>https://hundeschule-herz-as.de/impressum/</loc>
   </url><url>
-    <loc>http://localhost:1313/assistenzhunde/kaufberatung/</loc>
+    <loc>https://hundeschule-herz-as.de/assistenzhunde/kaufberatung/</loc>
   </url><url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>https://hundeschule-herz-as.de/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:1313/kosten/</loc>
+    <loc>https://hundeschule-herz-as.de/kosten/</loc>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://hundeschule-herz-as.de/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/aktuelles/namensaenderung/</loc>
+    <loc>https://hundeschule-herz-as.de/qualifikationen/</loc>
   </url><url>
-    <loc>http://localhost:1313/qualifikationen/</loc>
+    <loc>https://hundeschule-herz-as.de/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hundeschule-herz-as.de/verhaltensberatung/</loc>
   </url><url>
-    <loc>http://localhost:1313/verhaltensberatung/</loc>
-  </url><url>
-    <loc>http://localhost:1313/agb/</loc>
+    <loc>https://hundeschule-herz-as.de/agb/</loc>
   </url>
 </urlset>
