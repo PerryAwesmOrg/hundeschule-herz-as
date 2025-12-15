@@ -15,6 +15,11 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
+[[redirects]]
+  from = "https://hundeschule-herz-as.de/*"
+  to = "https://assistenzhunde-schule-herz-ass.de/"
+  status = 301
+  force = true
 
 ################################# Outputs #################################
 # hugo outputs
