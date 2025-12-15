@@ -22,7 +22,7 @@ vom Veterinäramt Hannover Region nach §11 überprüft.
 <br>
 
 Geschäftsführerin: Amelie Wanek
-St.Nr. 23/142/00408
+St.Nr. 35/146/00432
 <br>
 
 Ich (Hundeschule Herz-AS) bin freiwillig bereit, an dem Streitbeilegungsverfahren vor einer  Verbraucherstreitschlichtungsstelle teilzunehmen. 
