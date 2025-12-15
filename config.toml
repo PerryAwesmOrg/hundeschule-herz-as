@@ -17,7 +17,13 @@ disableLanguages = []
 
 [[redirects]]
   from = "https://hundeschule-herz-as.de/*"
-  to = "https://assistenzhunde-schule-herz-ass.de/"
+  to = "https://assistenzhunde-schule-herz-ass.de/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hundeschule-herz-as.de/*"
+  to = "https://assistenzhunde-schule-herz-ass.de/:splat"
   status = 301
   force = true
 
