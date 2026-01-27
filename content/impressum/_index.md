@@ -7,7 +7,7 @@ Mail: **assistenzhunde.schule.herz.ass@gmail.com**
 Telefon: **0177-9273213**
 
 Amelie Wanek<br>
-Hundeschule Herz-Ass<br>
+Assistenzhundeschule Herz-Ass<br>
 Heikenbergstr. 32,<br>
 37431 Bad Lauterberg<br>
 
@@ -25,7 +25,7 @@ Geschäftsführerin: Amelie Wanek
 St.Nr. 35/146/00432
 <br>
 
-Ich (Hundeschule Herz-AS) bin freiwillig bereit, an dem Streitbeilegungsverfahren vor einer  Verbraucherstreitschlichtungsstelle teilzunehmen. 
+Ich (Assistenzhundeschule Herz-Ass) bin freiwillig bereit, an dem Streitbeilegungsverfahren vor einer  Verbraucherstreitschlichtungsstelle teilzunehmen. 
 Sie haben die Möglichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europäischen Kommission unter http://ec.europa.eu/odr zu richten.
 
 

@@ -10,7 +10,7 @@ Mail: **assistenzhunde.schule.herz.ass@gmail.com**
 <br>
 Telefon: **0177-9273213**
 
-Hundeschule Herz-AS<br>
+Assistenzhundeschule Herz-Ass<br>
 Heikenbergstr. 32,<br>
 37431 Bad Lauterberg<br>
 
