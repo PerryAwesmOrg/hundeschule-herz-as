@@ -14,7 +14,7 @@ Für eine Probestunde einfach anmelden!
   
 **Assistenzhundeschule Herz Ass <br>
 Telefon: 0177-9273213<br>
-Email: info@hundeschule-herz-as.de**
+Email: assistenzhunde.schule.herz.ass@gmail.com**
 <br>
 ***
 ## Ausbildungsformen

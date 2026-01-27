@@ -2,7 +2,7 @@
 title: "Impressum"
 draft: false
 ---
-Mail: **info@hundeschule-herz-as.de**
+Mail: **assistenzhunde.schule.herz.ass@gmail.com**
 <br>
 Telefon: **0177-9273213**
 
