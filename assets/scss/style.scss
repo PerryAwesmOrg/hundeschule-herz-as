@@ -63,3 +63,9 @@
 @import 'templates/_assistenzhunde.scss';
 
 @import 'templates/_sidebar.scss';
+
+.pagination .page-link { display:inline-flex; align-items:center; gap:.35rem; }
+.pagination .page-link svg { transition: transform .15s ease; }
+.pagination li:first-child .page-link:hover svg { transform: translateX(-2px); }
+.pagination li:last-child  .page-link:hover svg { transform: translateX(2px); }
+.sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }

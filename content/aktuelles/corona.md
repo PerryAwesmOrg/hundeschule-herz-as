@@ -1,7 +1,8 @@
 ---
 title: "Corona"
 draft: false
-weight: 5
+date: 2025-03-10
+weight: 10
 ---
 
 Da nach der ersten Corona-Welle die Bedingungen wieder gelockert werden, kann wieder Einzeltraining stattfinden!

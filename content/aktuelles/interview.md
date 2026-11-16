@@ -1,7 +1,8 @@
 ---
 title: "Mein Interview mit der BSK"
 draft: false
-weight: 2
+date: 2025-05-10
+weight: 10
 ---
 
 **Hilfe auf vier Pfoten**
