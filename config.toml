@@ -3,7 +3,8 @@ baseURL = "https://hundeschule-herz-as.de/"
 title = "Assistenzhundeschule Herz Ass"
 DefaultContentLanguage = "de"
 # post pagination
-paginate = "5"
+[pagination]
+pagerSize = 5
 # post excerpt
 summaryLength = "30"
 # disqus short name
@@ -164,10 +165,6 @@ links = "www.google.com"
     weight = 7
 
     # footer menu
-    [[menu.footer]]
-    name = "AGB"
-    URL = "agb"
-    weight = 1
 
     [[menu.footer]]
     name = "Datenschutz"
@@ -182,10 +179,5 @@ links = "www.google.com"
     [[menu.footer]]
     name = "Impressum"
     URL = "impressum"
-    weight = 4
-
-    [[menu.footer]]
-    name = "Links"
-    URL = "links"
     weight = 4
 
