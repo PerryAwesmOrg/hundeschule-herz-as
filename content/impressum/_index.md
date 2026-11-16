@@ -18,7 +18,7 @@ Heikenbergstr. 32,<br>
 Erlaubnis und Aufsichtsbehörde
 Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 8 Buchst. f Tierschutzgesetz (gewerbsmäßiges Ausbilden von Hunden für Dritte bzw. Anleitung der Ausbildung durch den Tierhalter).
 
-Zuständige Aufsichtsbehörde: Veterinäramt Niedersachsen, Landkreis Göttingen, Fachbereich Veterinärwesen und Verbraucherschutz für den Landkreis und die Stadt Göttingen, Walkemühlenweg 8, 37083 Göttingen, E-Mail: veterinaeramt@landkreisgoettingen.de, Postanschrift: Landkreis Göttingen · 37070 Göttingen
+Zuständige Aufsichtsbehörde: Landkreis Göttingen, Fachbereich Veterinärwesen und Verbraucherschutz für den Landkreis und die Stadt Göttingen, Walkemühlenweg 8, 37083 Göttingen, E-Mail: veterinaeramt@landkreisgoettingen.de, Postanschrift: Landkreis Göttingen · 37070 Göttingen
 
 
 
